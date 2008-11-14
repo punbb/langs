@@ -1,6 +1,8 @@
 ﻿<?php
 
-// Russian language pack [PunBB.ru community ]
+// Beta Russian language pack [PunBB.ru community ]
+//Translate by Wolverine (wolverine@digitalplace.ru) http://digitalplace.ru
+
 $lang_admin_index = array(
 
 'Information head'				=>	'Добро пожаловать в панель администратора punBB. Посетите форум русской поддержки http://punbb.ru',
