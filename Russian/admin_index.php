@@ -1,23 +1,24 @@
-<?php
+﻿<?php
 
+// Russian language pack [PunBB.ru community ]
 $lang_admin_index = array(
 
-'Information head'				=>	'Welcome to PunBB administration control panel',
-'Alerts'						=>	'Administrator Alerts',
-'Check for updates enabled'		=>	'This board is setup to automatically check for updates and hotfixes against the punbb.informer.com updates service.',
-'Check for updates manual'		=>	'Check for updates',	// Link text
-'PunBB version'				=>	'PunBB version',
-'Not available'					=>	'Not available',
-'Not applicable'				=>	'N/A',
-'Server load'					=>	'Server load',
-'users online'					=>	'users online',
-'Environment'					=>	'Environment',
-'Operating system'				=>	'Operating system',
-'Show info'						=>	'Show info',
-'Accelerator'					=>	'Accelerator',
-'Database'						=>	'Database',
-'Rows'							=>	'Rows',
-'Size'							=>	'Size',
-'phpinfo disabled'				=>	'The PHP function phpinfo() has been disabled on this server.',
+'Information head'				=>	'Добро пожаловать в панель администратора punBB. Посетите форум русской поддержки http://punbb.ru',
+'Alerts'						=>	'Сообщения администратору',
+'Check for updates enabled'		=>	'Включена автоматическая проверка обновлений и заплаток на punbb.informer.com.',
+'Check for updates manual'		=>	'Проверка на обновления',	// Link text
+'PunBB version'				=>	'Версия PunBB',
+'Not available'					=>	'Отсутствует',
+'Not applicable'				=>	'Не доступно',
+'Server load'					=>	'Загруженность сервера',
+'users online'					=>	': активные пользователи',
+'Environment'					=>	'Сервер',
+'Operating system'				=>	'Операционная система',
+'Show info'						=>	'Показать информацию',
+'Accelerator'					=>	'PHP Accelerator',
+'Database'						=>	'База данных',
+'Rows'							=>	'Строк',
+'Size'							=>	'Размер',
+'phpinfo disabled'				=>	'Функция PHP phpinfo() не доступна на этом сервере.',
 
 );

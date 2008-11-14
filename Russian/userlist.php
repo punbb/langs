@@ -1,34 +1,35 @@
-<?php
+﻿<?php
 
+// Russian language pack [PunBB.ru community ] 
 // Language definitions used in userlist.php
 $lang_ul = array(
 
-'Users'					=>	'Users',
-'Users found'			=>	'Users found matching your criteria',
-'No users found'		=>	'No users were found matching your criteria',
-'User search head'		=>	'Search for users by username or by predefined criteria',
-'User results all'		=>	'All currently registered users',
-'User results matching'	=>	'Currently registered users matching your criteria',
-'User find legend'		=>	'Find users',
-'Username'				=>	'Username',
-'Search for username'	=>	'Username to search for',
-'Username help'			=>	'May be left blank. Use wildcard character <strong>*</strong> for partial matches.',
-'User group'			=>	'Show users from group',
-'Sort users by'			=>	'Sort user list by',
-'User sort order'		=>	'User list sort order',
-'No of posts'			=>	'Number of posts',
-'Registered'			=>	'Registration date',
-'Ascending'				=>	'Ascending',
-'Descending'			=>	'Descending',
-'All users'				=>	'All users',
-'Perform new search'	=>	'Perform new user search',
-'Table summary'			=>	'List of users filtered and sorted according to the criteria (if any) you have chosen.',
+'Users'					=>	'Пользователей',
+'Users found'			=>	'По заданным критериям найдены пользователи',
+'No users found'		=>	'По вашему запросу ничего не найдено.',
+'User search head'		=>	'Поиск пользователей по имени или по заданным критериям',
+'User results all'		=>	'Все зарегистрированные пользователи',
+'User results matching'	=>	'Зарегистрированные пользователи по заданным критериям',
+'User find legend'		=>	'Поиск пользователей',
+'Username'				=>	'Имя',
+'Search for username'	=>	'Найти пользователя',
+'Username help'			=>	'Имя пользователя может быть пустым. Используйте <strong>*</strong> в качестве шаблона для частичного совпадения.',
+'User group'			=>	'Показывать из группы',
+'Sort users by'			=>	'Сортировать по',
+'User sort order'		=>	'Упорядочить по',
+'No of posts'			=>	'Количеству сообщений',
+'Registered'			=>	'Зарегистрирован',
+'Ascending'				=>	'Возрастанию',
+'Descending'			=>	'Убыванию',
+'All users'				=>	'Все пользователи',
+'Perform new search'	=>	'Выполнить новый поиск',
+'Table summary'			=>	'Список пользователей, отсортированный и отфильтрованный по Вашим критериям.',
 'User list options'		=>	'User list options',
-'Perform new search'	=>	'Perform new user search',
-'Submit user search'	=>	'Submit user criteria',
-'Title'					=>	'Title',
-'Posts'					=>	'Posts',
-'User list options'		=>	'User list options'
+'Perform new search'	=>	'Выполнить новый поиск',
+'Submit user search'	=>	'Отправить',
+'Title'					=>	'Статус',
+'Posts'					=>	'Сообщений',
+'User list options'		=>	'Настройки списка пользователей'
 
 
 );

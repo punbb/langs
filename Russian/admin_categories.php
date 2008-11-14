@@ -1,29 +1,30 @@
-<?php
+﻿<?php
 
+// Russian language pack [PunBB.ru community ]
 // Language definitions used in admin-categories
 $lang_admin_categories = array(
 
-'Add category head'				=>	'Add category (create a new category at the specified position)',
-'Add category info'				=>	'Your new category will not appear on the board index page until at least one forum is added to it. To create a new forum in this category or to move an existing forum to it go to the %s page.',
-'Add category info link text'	=>	'forums',
-'Add category legend'			=>	'Add new category',
-'Add category'					=>	'Add category',
-'New category label'			=>	'New category name',
-'Category name label'			=>	'Category name',
-'Position label'				=>	'Position',
-'Del category head'				=>	'Delete category (together with all forums and posts it contains)',
-'Delete category'				=>	'Delete category',// submit button
-'Select category label'			=>	'Select category',
-'Confirm delete cat'			=>	'You are deleting the category "%s"',
-'Delete category warning'		=>	'<strong>WARNING!</strong> Deleting a category will delete all forums and posts (if any) in that category!',
-'Edit categories head'			=>	'Edit categories (change category names and/or positions)',
-'Edit categories legend'		=>	'Edit categories',
-'Edit category legend'			=>	'Edit category%s',
-'Update all categories'			=>	'Update all categories',
-'Categories updated'			=>	'Categories updated.',
-'Category added'				=>	'Category added.',
-'Category deleted'				=>	'Category deleted.',
-'Must name category'			=>	'You must enter a name for the category',
-'Must be integer'				=>	'Position must be a positive integer value',
+'Add category head'				=>	'Добавление категории (Вы можете задать ее расположение на форуме с помощью свойства Позиция)',
+'Add category info'				=>	'Созданная категория не будет видна, пока Вы не добавите хотя бы один форум. Создать новый форум в категории или переместить в нее уже существующий форум можно в разделе %s.',
+'Add category info link text'	=>	'Форумы',
+'Add category legend'			=>	'Добавление новой категории',
+'Add category'					=>	'Добавить категорию',
+'New category label'			=>	'Имя добавляемой категории',
+'Category name label'			=>	'Имя категории',
+'Position label'				=>	'Позиция',
+'Del category head'				=>	'Удаление категории. (Вместе со всеми содержащимися форумами и сообщениями)',
+'Delete category'				=>	'Удалить категорию',// submit button
+'Select category label'			=>	'Выберите категорию',
+'Confirm delete cat'			=>	'Вы выбрали удаление категории "%s"',
+'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> Удаление категории уничтожит все форумы и сообщения (если есть) в этой категории!',
+'Edit categories head'			=>	'Редактирование категорий (изменение имени категории и/или ее позиции)',
+'Edit categories legend'		=>	'Редактирование категорий',
+'Edit category legend'			=>	'Edit category%s', // не нашел где выводится легенда
+'Update all categories'			=>	'Обновить все категории',
+'Categories updated'			=>	'Категории обновлены.',
+'Category added'				=>	'Категория добавлена.',
+'Category deleted'				=>	'Категория удалена.',
+'Must name category'			=>	'Вы должны ввести имя категории',
+'Must be integer'				=>	'Позиция должна иметь положительное целое значение',
 
 );

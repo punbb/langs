@@ -1,68 +1,69 @@
-<?php
+﻿<?php
 
+// Russian language pack [PunBB.ru community ]
 // Language definitions used in all admin files
 $lang_admin_common = array(
 
 // Common items
-'Save changes'					=>	'Save changes',
-'Redirect'						=>	'Redirecting …',
-'Add'							=>	'Add',
-'Add new'						=>	'Add new',
-'Delete'						=>	'Delete',
-'Edit'							=>	'Edit',
-'Update'						=>	'Update',
-'Remove'						=>	'Remove',
-'Update all'					=>	'Update all',
-'Yes'							=>	'Yes',
-'No'							=>	'No',
-'Save changes'					=>	'Save changes',
-'Save'							=>	'Save',
+'Save changes'					=>	'Сохранить изменения',
+'Redirect'						=>	'Перемещение…',
+'Add'							=>	'Добавить',
+'Add new'						=>	'Добавить новый(ую)!?',
+'Delete'						=>	'Удалить',
+'Edit'							=>	'Редактировать',
+'Update'						=>	'Обновить',
+'Remove'						=>	'Переместить',
+'Update all'					=>	'Обновить все',
+'Yes'							=>	'Да',
+'No'							=>	'Нет',
+'Save changes'					=>	'Сохранить изменения',
+'Save'							=>	'Сохранить',
 'E-mail'						=>	'E-mail',
-'Cancel'						=>	'Cancel',
-'Cancel redirect'				=>	'Operation cancelled. Redirecting …',
-'Unknown'						=>	'Unknown',
-'Delete help'					=>	'Requires confirmation via separate form.',
-'Select all'					=>	'Select all',
-'Required'						=>	'(Required)',
-'Required warn'					=>	'All fields labelled %s must be completed before the form is submitted.',
+'Cancel'						=>	'Отмена',
+'Cancel redirect'				=>	'Операция отменена. Перемещение…',
+'Unknown'						=>	'Неизвестно',
+'Delete help'					=>	'Необходимо подтвердить действие на отдельной форме.',
+'Select all'					=>	'Выбрать все',
+'Required'						=>	'(Обязательно для заполнения)',
+'Required warn'					=>	'Все поля отмеченные %s должны быть заполнены до отправки.',
 
 // Main Admin Menu Items and Title
-'Forum administration'			=>	'Administration',
-'Start'							=>	'Start',
-'Settings'						=>	'Settings',
-'Users'							=>	'Users',
-'Options'						=>	'Options',
-'Management'					=>	'Management',
-'Extensions'					=>	'Extensions',
-'Moderate'						=>	'Moderate',
+'Forum administration'			=>	'Администрирование',
+'Start'							=>	'Начало',
+'Settings'						=>	'Настройки',
+'Users'							=>	'Пользователи',
+'Options'						=>	'Опции',
+'Management'					=>	'Управление',
+'Extensions'					=>	'Расширения',
+'Moderate'						=>	'Модерация',
 
 // Start Submenu
-'Information'					=>	'Information',
-'Categories'					=>	'Categories',
-'Forums'						=>	'Forums',
+'Information'					=>	'Информация',
+'Categories'					=>	'Категории',
+'Forums'						=>	'Форумы',
 
 // Settings Submenu
-'Setup'							=>	'Setup',
-'Features'						=>	'Features',
-'Announcements'					=>	'Announcements',
-'Registration'					=>	'Registration',
+'Setup'							=>	'Установка',
+'Features'						=>	'Свойства (особенности, фичи?)',
+'Announcements'					=>	'Объявления',
+'Registration'					=>	'Регистрация',
 'E-mail'						=>	'E-mail',
-'Censoring'						=>	'Censoring',
+'Censoring'						=>	'Цензура',
 
 // Users Submenu
-'Searches'						=>	'Searches',
-'Groups'						=>	'Groups',
-'Ranks'							=>	'Ranks',
-'Bans'							=>	'Bans',
+'Searches'						=>	'Поиск',
+'Groups'						=>	'Группы',
+'Ranks'							=>	'Ранги',
+'Bans'							=>	'Бан-лист',
 
 // Management Submenu
-'Reports'						=>	'Reports',
-'Prune topics'					=>	'Prune topics',
-'Maintenance mode'				=>	'Maintenance mode',
-'Rebuild index'					=>	'Rebuild index',
+'Reports'						=>	'Отчеты',
+'Prune topics'					=>	'Удаление старых тем',
+'Maintenance mode'				=>	'Профилактика форума',
+'Rebuild index'					=>	'Пересоздание поискового индекса',
 
 // Extensions Submenu
-'Manage extensions'				=>	'Manage extensions',
-'Manage hotfixes'				=>	'Manage hotfixes',
+'Manage extensions'				=>	'Управление расширениями',
+'Manage hotfixes'				=>	'Управление заплатками (хотфиксы)',
 
 );
