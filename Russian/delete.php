@@ -17,6 +17,6 @@ $lang_delete = array(
 'Reply title'			=>	'Reply to: %s',
 'Please confirm'		=>	'Please confirm:',
 'Post del redirect'		=>	'Post deleted. Redirecting вЂ¦',
-'Topic del redirect'	=>	'Topic deleted. Redirecting вЂ¦',
+'Topic del redirect'	=>	'Тема удалена. Перенаправление вЂ¦',
 
 );
