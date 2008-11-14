@@ -3,8 +3,8 @@
 // Language definitions used in delete.php
 $lang_delete = array(
 
-'Delete post'			=>	'Óäàëèòü ñîîáùåíèå',
-'Delete topic'			=>	'Óäàëèòü òåìó',
+'Delete post'			=>	'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ',
+'Delete topic'			=>	'Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ñ‚ÐµÐ¼Ñƒ',
 'Delete post label'		=>	'Delete post by %1$s posted %2$s',
 'Delete topic label'	=>	'Delete topic by %1$s (including replies) created %2$s',
 'Delete topic info'		=>	'Created by %1$s %2$s.',
@@ -16,7 +16,7 @@ $lang_delete = array(
 'Topic title'			=>	'Topic: %s',
 'Reply title'			=>	'Reply to: %s',
 'Please confirm'		=>	'Please confirm:',
-'Post del redirect'		=>	'Post deleted. Redirecting â€¦',
-'Topic del redirect'	=>	'Topic deleted. Redirecting â€¦',
+'Post del redirect'		=>	'Post deleted. Redirecting Ð²Ð‚Â¦',
+'Topic del redirect'	=>	'Topic deleted. Redirecting Ð²Ð‚Â¦',
 
 );
