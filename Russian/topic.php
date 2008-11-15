@@ -6,8 +6,8 @@
 // Language definitions used in viewtopic.php
 $lang_topic = array(
 
-'Topic byline'			=>	'<span>Topic by </span>%s',
-'Reply byline'			=>	'<span>Reply by </span>%s',
+'Topic byline'			=>	'<span>Тема от </span>%s',
+'Reply byline'			=>	'<span>Ответ от </span>%s',
 'Search replies'		=>	'(%s ответов, оставленных в %s)',
 'Post reply'			=>	'Ответить',
 'Topic closed'			=>	'[Закрыто]',
