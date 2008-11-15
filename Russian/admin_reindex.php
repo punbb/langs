@@ -1,24 +1,25 @@
 <?php
 
+// Russian language pack [PunBB.ru community ]
 // Language definitions used in all admin files
 $lang_admin_reindex = array(
 
-'Reindex heading'			=>	'Rebuild search index to restore search performance',
-'Rebuild index legend'		=>	'Rebuild search index',
-'Reindex info'				=>	'If you have added, edited or removed posts manually in the database or if you are having problems searching, you should rebuild the search index. For best performance you should put the forum in maintenance mode during rebuilding. Once the process has completed you will be redirected back to this page. It is highly recommended that you have JavaScript enabled in your browser during rebuilding (for automatic redirect when a cycle has completed).',
-'Reindex warning'			=>	'<strong>IMPORTANT!</strong> Rebuilding the search index can take a long time and will increase server load during the rebuild process. If you are forced to abort the rebuild process, make a note of the last processed post ID and enter that ID+1 in "Starting post ID" when/if you want to continue.',
-'Empty index warning'		=>	'<strong>WARNING!</strong> If you want to resume an aborted rebuild, do not select "empty index".',
-'Posts per cycle'			=>	'Posts per cycle',
-'Posts per cycle info'		=>	'The number of posts to process per pageview. E.g. if you were to enter 100, one hundred posts would be processed and then the page would refresh. This is to prevent the script from timing out during the rebuild process.',
-'Starting post'				=>	'Starting Post ID',
-'Starting post info'		=>	'The post ID to start rebuilding at. The default value is the first available ID in the database. Normally you would not want to change this.',
-'Empty index'				=>	'Empty index',
-'Empty index info'			=>	'Empty search index before rebuilding (see below).',
-'Rebuilding index title'	=>	'Rebuilding search index &#8230;',
-'Rebuilding index'			=>	'Rebuilding index &#8230; This might be a good time to put on some coffee :-)',
-'Processing post'			=>	'Processing post <strong>%s</strong> in topic <strong>%s</strong>.',
-'Javascript redirect'		=>	'JavaScript redirect unsuccessful.',
-'Click to continue'			=>	'Click here to continue',
-'Rebuild index'				=>	'Rebuild index',
+'Reindex heading'			=>	'Перестройте поисковый индекс для того, чтобы повысить эффективность поиска',
+'Rebuild index legend'		=>	'Переиндексация поиска',
+'Reindex info'				=>	'Если вы добавляли, изменяли или удаляли сообщения из базы данных вручную или у вас возникли проблемы с поиском, перестройте поисковый индекс. Настоятельно рекомендуется разрешить JavaScript в вашем браузере (для автоматического перенаправления на следующий цикл).',
+'Reindex warning'			=>	'<strong>ВАЖНО!</strong> Обновление поискового индекса может занять несколько минут и во время выполнения увеличит нагрузку на сервер. Если вы принудително прервёте процесс, то запомните ID последней обработанной темы и введите ID+1 в поле "ID темы" когда/если вы собираетесь продолжить.',
+'Empty index warning'		=>	'<strong>ВНИМАНИЕ!</strong> Если вы хотите продолжить прерванную переиндексацию, то не выбирайте пункт "Очистить индекс".',
+'Posts per cycle'			=>	'Тем в цикле',
+'Posts per cycle info'		=>	'Количество тем на страницу. Т.е. если вы введёте 100, то будет обработано 100 тем, после чего страница обновится автоматически. Это предотвращает поисковый индекс от рассинхронизации во время перестройки.',
+'Starting post'				=>	'ID темы',
+'Starting post info'		=>	'ID темы с которой начать переиндексацию. По умолчанию это первый доступный ID в базе данных. В большинстве случаев ничего менять не нужно.',
+'Empty index'				=>	'Очистить индекс',
+'Empty index info'			=>	'Отметьте если хотите очистить индекс поиска перед переиндексацией (см. выше).',
+'Rebuilding index title'	=>	'Пересоздаётся поисковый индекс &#8230;',
+'Rebuilding index'			=>	'Пересоздание поискового индекса &#8230; Это может занять несколько минут, поэтому самое время выпить чашечку кофе  :-)',
+'Processing post'			=>	'Обрабатывается сообщение <strong>%s</strong> в теме <strong>%s</strong>.',
+'Javascript redirect'		=>	'JavaScript перенаправление не удалось.',
+'Click to continue'			=>	'Для породолжения нажмите сюда',
+'Rebuild index'				=>	'Перестроить индекс',
 
 );

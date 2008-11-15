@@ -9,7 +9,7 @@ $lang_admin_users = array(
 // admin_users
 'Search head'					=>	'Поиск пользователей',
 'User search head'				=>	'Введите один или несколько критериев. Используйте <strong>*</strong> в качестве шаблона для частичного совпадения.',
-'Searches personal legend'		=>	'Personal details',
+'Searches personal legend'		=>	'Личные данные',
 'Username label'				=>	'Имя',
 'Title label'					=>	'Статус',
 'Real name label'				=>	'Реальное имя',
