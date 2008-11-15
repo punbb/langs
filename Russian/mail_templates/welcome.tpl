@@ -1,10 +1,10 @@
-Subject: Welcome to <board_title>!
+Тема: Добро пожаловать на <board_title>!
 
-Thank you for registering in the forums at <base_url>. Your username on the forums is <username>, as you requested. To complete your registration, you need to set a password for your account.
+Спасибо за то, что Вы зарегистрировались на нашем форуме - <base_url>. Ваше имя пользователя (никнейм) на форуме - <username>, как Вы указали при регистрации. Чтобы завершить регистрацию, Вам нужно назначить пароль для своего аккаунта.
 
-To set your password, please visit the following page:
+Чтобы назначить пароль, пожалуйста, проследуйте по следующей ссылке:
 <activation_url>
 
--- 
+--
 <board_mailer>
-(Do not reply to this message)
+(Не отвечайте на это сообщение)

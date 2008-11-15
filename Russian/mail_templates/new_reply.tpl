@@ -1,11 +1,11 @@
-Subject: Reply to topic: <topic_subject>
+“ема: ќтвет в топике: <topic_subject>
 
-<replier> has replied to the topic <topic_subject> to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> ответил(а) в теме <topic_subject> на которую ¬ы подписаны. ¬ теме могли по€витс€ еще ответы, но система уведомлений работает так, что ¬ы не получите сообщени€ о новом ответе до тех пор, пока не посетите форум после получени€ последнего уведомлени€.
 
-The post is located at <post_url>
+—ообщение можно прочитать здесь - <post_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+¬ы можете отказатьс€ от подписки, проследовав по следующей ссылке - <unsubscribe_url>
 
 -- 
 <board_mailer>
-(Do not reply to this message)
+(Ќе отвечайте на это сообщение)

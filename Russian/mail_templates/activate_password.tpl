@@ -1,12 +1,12 @@
-Subject: New password requested
+Тема: Запрос нового пароля
 
-Hello <username>,
+Здравствуйте, <username>!
 
-You have requested to have a new password assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your password you should just ignore this message. Only if you visit the activation page below will your password be changed.
+Вы запросили новый пароль для вашего аккаунта на форуме <base_url>. Если Вы не запрашивали этого, или или передумали менять свой пароль, просто проигнорируйте это письмо. Если же Вы проследуете по ссылке активации ниже, Ваш пароль будет изменен.
 
-To change your password, please visit the following page:
+Чтобы сменить пароль, пожалуйста проследуйте по следующей ссылке:
 <activation_url>
 
 -- 
 <board_mailer>
-(Do not reply to this message)
+(Не отвечайте на это сообщение)

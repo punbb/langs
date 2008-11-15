@@ -1,12 +1,12 @@
-Subject: Change e-mail address requested
+Тема: Запрос на смену e-mail адреса
 
-Hello <username>,
+Здравствуйте, <username>!
 
-You have requested to have a new e-mail address assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your e-mail address you should just ignore this message. Only if you visit the activation page below will your e-mail address be changed. In order for the activation page to work, you must be logged in to the forum.
+Вы запросили изменение старого e-mail адреса на новый в настройках своего профиля на форуме <base_url>. Если Вы не запрашивали этого, или передумали менять свой e-mail адрес, просто проигнорируйте это письмо. Если же Вы проследуете по ссылке активации ниже, Ваш e-mail адрес будет изменен. Для того, чтобы ссылка активации сработала корректно, Вы должны войти на форум под своим логином/паролем.
 
-To change your e-mail address, please visit the following page:
+Для смены e-mail адреса, пожалуйста проследуйте по следующей ссылке:
 <activation_url>
 
 -- 
 <board_mailer>
-(Do not reply to this message)
+(Не отвечайте на это сообщение)

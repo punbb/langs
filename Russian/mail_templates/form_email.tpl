@@ -1,8 +1,8 @@
-Subject: <mail_subject>
+Тема: <mail_subject>
 
-<sender> from <board_title> has sent you a message. You can reply to <sender> by replying to this e-mail.
+<sender> с <board_title> отправил(а) Вам сообщение. Вы можете ответить пользователю <sender>, ответив на это письмо.
 
-The message reads as follows:
+<sender> оставил(а) сообщение следующего содержания:
 -----------------------------------------------------------------------
 
 <mail_message>
