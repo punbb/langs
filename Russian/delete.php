@@ -1,22 +1,22 @@
-<?php
+﻿<?php
 
 // Language definitions used in delete.php
 $lang_delete = array(
 
 'Delete post'			=>	'Удалить сообщение',
 'Delete topic'			=>	'Удалить тему',
-'Delete post label'		=>	'Delete post by %1$s posted %2$s',
-'Delete topic label'	=>	'Delete topic by %1$s (including replies) created %2$s',
-'Delete topic info'		=>	'Created by %1$s %2$s.',
-'Topic byline'			=>	'<span>Topic by </span>%s',
-'Reply byline'			=>	'<span>Reply by </span>%s',
-'Delete post info'		=>	'Post by %1$s %2$s',
+'Delete post label'		=>	'Удалить сообщение %1$s оставленное %2$s',
+'Delete topic label'	=>	'Удалить тему %1$s (включая все ответы) созданную %2$s',
+'Delete topic info'		=>	'Создано %1$s %2$s.',
+'Topic byline'			=>	'<span>Тема от </span>%s',
+'Reply byline'			=>	'<span>Ответ от </span>%s',
+'Delete post info'		=>	'Сообщение оставлено %1$s %2$s',
 'Topic'					=>	'Тема',
-'Forum'					=>	'Форум',
+'Forum'					=>	'Раздел',
 'Topic title'			=>	'Тема: %s',
-'Reply title'			=>	'Reply to: %s',
-'Please confirm'		=>	'Please confirm:',
-'Post del redirect'		=>	'Post deleted. Redirecting вЂ¦',
-'Topic del redirect'	=>	'Тема удалена. Перенаправление вЂ¦',
+'Reply title'			=>	'Ответ на: %s',
+'Please confirm'		=>	'Пожалуйста, подтвердите:',
+'Post del redirect'		=>	'Сообщение удалено. Переадресация…',
+'Topic del redirect'	=>	'Тема удалена. Переадресация…'
 
 );
