@@ -66,6 +66,6 @@ $lang_admin_common = array(
 
 // Extensions Submenu
 'Manage extensions'				=>	'Управление расширениями',
-'Manage hotfixes'				=>	'Управление исправлениямя',
+'Manage hotfixes'				=>	'Управление исправлениями',
 
 );
