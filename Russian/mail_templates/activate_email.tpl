@@ -1,4 +1,4 @@
-﻿Subject: Запрос на смену адреса e-mail
+Subject: Запрос на смену адреса e-mail
 
 Здравствуйте, <username>!
 

@@ -1,4 +1,4 @@
-﻿Subject: <mail_subject>
+Subject: <mail_subject>
 
 <sender> с <board_title> отправил(а) вам сообщение. Вы можете ответить пользователю <sender>, ответив на это письмо.
 
