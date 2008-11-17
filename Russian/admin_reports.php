@@ -3,9 +3,9 @@
 // Language definitions used in all admin files
 $lang_admin_reports = array(
 
-'No reports selected'			=>	'Не выбраны сигналы, которые отмечены как прочтенные.',
+'No reports selected'			=>	'Не выбраны сигналы, которые отмечены как прочтённые.',
 'Reports marked read'			=>	'Сигналы отмечены как обработанные.',
-'New reports heading'			=>	'Новые сигналы (выберите и отметьте как прочтенный один или несколько)',
+'New reports heading'			=>	'Новые сигналы (выберите и отметьте как прочтённый один или несколько)',
 'Empty reports heading'			=>	'Сигналы не поступали',
 'Reported by'					=>	'Поступил от %s',
 'Deleted forum'					=>	'Удалён форум',
