@@ -1,7 +1,7 @@
 <?php
 
 // Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru) http://digitalplace.ru
+//Translate by Wolverine (wolverine@digitalplace.ru) 
 
 // Language definitions used in viewtopic.php
 $lang_topic = array(
