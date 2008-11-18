@@ -8,7 +8,7 @@ $lang_index = array(
 
 'Moderated by'				=>  'Модераторы: %s',
 'Link to'					=>	'Ссылка на %s',	// As in "Link to http://punbb.informer.com/"
-'Category subtitle'			=>	'%1$s in this category with details of %2$s',
+'Category subtitle'			=>	'%1$s in this category with details of %2$s', // TODO
 'Forums'					=>	'Форум',
 'Topics'					=>	'Темы',
 'Posts'						=>	'Сообщений',
