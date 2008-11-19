@@ -198,7 +198,7 @@ $lang_profile = array(
 'Sig too many lines'		=>	'Подпись не может содержать более %s строк.',
 'Signature'					=>	'Подпись',
 'Compose signature'			=>	'Новая подпись',
-'Sig max size'				=>	'Максимальное количество символов: %s, строк - %s.',
+'Sig max size'				=>	'Не более %s символов и %s строк.',
 
 // Registration stuff (some of these also used by profile)
 'No new regs'				=>	'Регистрация новых пользователей отключена.',
@@ -225,7 +225,7 @@ $lang_profile = array(
 'Password help'				=>	'Не менее 4 символов. Регистрозависимый.',
 'Confirm password'			=>	'Подтвердите пароль',
 'Confirm password help'		=>	'В целях безопасности введите ваш пароль повторно.',
-'E-mail'					=>	'E-mail адрес',
+'E-mail'					=>	'E-mail',
 'E-mail help'				=>	'Ваш настоящий e-mail адрес.',
 'Confirm e-mail'			=>	'Подтвердите e-mail адрес',
 'Confirm e-mail help'		=>	'В целях безопасности введите ваш e-mail адрес повторно.',
