@@ -91,7 +91,7 @@ $lang_admin_users = array(
 'Posts'							=>	'Сообщений',
 'Actions'						=>	'Действия',
 'View IP stats'					=>	'Статистика IP',
-'Show posts'					=>	'Показать посты',
+'Show posts'					=>	'Показать сообщения',
 'Last used'						=>	'Последний использованный',
 'Times found'					=>	'Время',
 'Find more users'				=>	'Найти всех пользователей с этим IP',
@@ -99,7 +99,7 @@ $lang_admin_users = array(
 'Guest'							=>	'Гость',
 'Cannot find IP'				=>	'Введенный IP адрес не найден в базе данных.',
 'Not verified'					=>	'Не проверен',
-'No match'						=>	'ХЗ',
+'No match'						=>	'Ничего не найдено',
 'User search results'			=>	'Результат поиска пользователей'
 
 );
