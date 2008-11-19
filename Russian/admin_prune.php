@@ -4,7 +4,7 @@
 $lang_admin_prune = array(
 
 'Prune settings head'			=>	'Удалить темы по дате составления последнего сообщения и форуму',
-'Prune legend'					=>	'Select posts to prune',
+'Prune legend'					=>	'Удаление сообщений',
 'Confirm prune heading'			=>	'Подтвердить удаление тем',
 'Prune details head'			=>	'Подтвердить удаление тем из: %s',
 'Prune topics info 1'			=>	'<strong>ВНИМАНИЕ!</strong> В результате будет удалено следующее количество тем: <em>%s</em>.',
@@ -21,6 +21,6 @@ $lang_admin_prune = array(
 'Prune from'					=>	'Удаление по форумам',
 'Days to prune message'			=>	'Введите положительное значение для удаления тем.',
 'No days old message'			=>	'Нет тем в которых сообщения не добавлялись в течении указанного вами периода. Пожалуйста измените значение в форме «Прошло дней» и повторите попытку.',
-'Prune done'					=>	'Posts pruned.',
+'Prune done'					=>	'Удаление произведено.',
 
 );
