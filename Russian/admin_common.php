@@ -56,7 +56,7 @@ $lang_admin_common = array(
 'Searches'						=>	'Поиск',
 'Groups'						=>	'Группы',
 'Ranks'							=>	'Ранги',
-'Bans'							=>	'Бан-лист',
+'Bans'							=>	'Блокировки',
 
 // Management Submenu
 'Reports'						=>	'Отчёты',
