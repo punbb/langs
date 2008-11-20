@@ -37,7 +37,7 @@ $lang_admin_common = array(
 'Options'						=>	'Опции',
 'Management'					=>	'Управление',
 'Extensions'					=>	'Расширения',
-'Moderate'						=>	'Модерация',
+'Moderate'						=>	'Модерирование',
 
 // Start Submenu
 'Information'					=>	'Информация',
