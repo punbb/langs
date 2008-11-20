@@ -45,7 +45,7 @@ $lang_forum = array(
 'Permalink forum'			=>	'Постоянная ссылка на этот форум',
 'Forum options'				=>	'Настройки форума',
 'Moderate forum'			=>	'Модерировать',
-'Mark forum read'			=>	'Пометить форум как прочитанный',
+'Mark forum read'			=>	'Отметить форум прочтённым',
 'RSS forum feed'			=>	'RSS',
 'New posts info'			=>	'Перейти к новым сообщениям с момента Вашего последнего визита'
 

@@ -5,7 +5,7 @@
 
 $lang_admin_index = array(
 
-'Information head'				=>	'Добро пожаловать в панель администратора punBB. Посетите форум русской поддержки http://punbb.ru',
+'Information head'				=>	'Добро пожаловать в панель администратора PunBB. Посетите <a href="http://punbb.ru">форум русской поддержки</a>.',
 'Alerts'						=>	'Сообщения администратору',
 'Check for updates enabled'		=>	'Включена автоматическая проверка обновлений и исправлений на punbb.informer.com.',
 'Check for updates manual'		=>	'Проверка на обновления',	// Link text
