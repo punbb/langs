@@ -6,7 +6,6 @@ $lang_profile = array(
 'Profile redirect'			=>	'Профиль обновлён. Переадресация…',
 'Instructions'				=>	'Вы будете перенаправлены обратно на эту страницу',
 'Update profile'			=>	'Обновить профиль',
-'Subform heading'			=>	'%1$s : %2$s', //FIXME: не знаю что это. нужно проверить
 
 // Administration stuff
 'User delete redirect'		=>	'Пользователь удалён. Переадресация…',
