@@ -18,7 +18,7 @@ $lang_admin_categories = array(
 'Delete category'				=>	'Удалить категорию',// submit button
 'Select category label'			=>	'Выбрать категорию',
 'Confirm delete cat'			=>	'Вы выбрали удаление категории "%s"', //TODO 
-'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> При удалении категории будут удалены все форумы и сообщения (если есть) в этой категории!', //TODO
+'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> Удалении категории приведёт к удалению всех форумов и сообщений (если есть) в этой категории!', //TODO
 'Edit categories head'			=>	'Редактирование категорий (изменение имени категории и/или её позиции)',
 'Edit categories legend'		=>	'Редактирование категорий',
 'Edit category legend'			=>	'Редактирование категории%s', // выводится в <legend class="group-legend"><span>
