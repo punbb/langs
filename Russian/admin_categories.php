@@ -17,11 +17,11 @@ $lang_admin_categories = array(
 'Del category head'				=>	'Удаление категории (вместе со всеми содержащимися в ней форумами и сообщениями)',
 'Delete category'				=>	'Удалить категорию',// submit button
 'Select category label'			=>	'Выбрать категорию',
-'Confirm delete cat'			=>	'Вы выбрали удаление категории "%s"', //TODO 
-'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> Удалении категории приведёт к удалению всех форумов и сообщений (если есть) в этой категории!', //TODO
+'Confirm delete cat'			=>	'Подтверждение удаления категории "%s"', 
+'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> Удалении категории приведёт к удалению всех форумов и сообщений (если есть) в этой категории!',
 'Edit categories head'			=>	'Редактирование категорий (изменение имени категории и/или её позиции)',
 'Edit categories legend'		=>	'Редактирование категорий',
-'Edit category legend'			=>	'Редактирование категории%s', // выводится в <legend class="group-legend"><span>
+'Edit category legend'			=>	'Редактирование категории%s', 
 'Update all categories'			=>	'Обновить все категории',
 'Categories updated'			=>	'Категории обновлены.',
 'Category added'				=>	'Категория добавлена.',
