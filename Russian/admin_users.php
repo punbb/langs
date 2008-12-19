@@ -86,7 +86,7 @@ $lang_admin_users = array(
 'Move users to label'			=>	'Переместить пользователей в группу',
 
 // admin_users tables
-'Username column'				=>	'Имя - E-mail - Примечание администратора',
+'Username column'				=>	'Имя — E-mail — Примечание администратора',
 'Title column'					=>	'Статус',
 'Posts'							=>	'Сообщений',
 'Actions'						=>	'Действия',
