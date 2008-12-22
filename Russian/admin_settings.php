@@ -41,7 +41,7 @@ $lang_admin_settings = array(
 'Report internal label'			=>	'По внутренней системе уведомлений.',
 'Report both label'				=>	'По внутренней системе уведомлений и используя e-mail по списку рассылки.',
 'Report email label'			=>	'Используя e-mail по списку рассылки.',
-'Setup URL'						=>	'URL схема (<abbr title ="Search Engine Friendly">SEF</abbr> URLs) для страниц ваших досок',
+'Setup URL'						=>	'URL схема (<abbr title="Search Engine Friendly">SEF</abbr> URLs) для страниц ваших досок',
 'Setup URL legend'				=>	'URL схема',
 'URL scheme info'				=>	'<strong>ВНИМАНИЕ!</strong> Если вы выберите схему, отличную от базовой, вы должны скопировать/загрузить файл .htaccess из каталога «extras» в корень форума. Сервер, на котором установлен форум, должен быть сконфигурирован с поддержкой mod_rewrite и должен разрешать использование файлов .htaccess. Если вы используете Web-сервер, отличный от Apache, пожалуйста обратитесь к документации данного сервера.',
 'URL scheme label'				=>	'URL схема',

@@ -148,8 +148,8 @@ $lang_common = array(
 // For extern.php RSS feed
 'ATOM Feed'					=>	'Atom',
 'RSS Feed'					=>	'RSS',
-'RSS description'			=>	'Недавние темы раздела "%s".',
-'RSS description topic'		=>	'Недавние сообщения в теме "%s".',
+'RSS description'			=>	'Недавние темы раздела «%s».',
+'RSS description topic'		=>	'Недавние сообщения в теме «%s».',
 'RSS reply'					=>	'Re: ',	// The topic subject will be appended to this string (to signify a reply)
 
 // Accessibility
