@@ -1,7 +1,7 @@
 <?php
 
 // Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru)
+// Translate by Wolverine (wolverine@digitalplace.ru) Fixed by PunBB.ru
 
 // Language definitions used in all admin files
 $lang_admin_common = array(
@@ -10,7 +10,7 @@ $lang_admin_common = array(
 'Save changes'					=>	'Сохранить изменения',
 'Redirect'						=>	'Перенаправление…',
 'Add'							=>	'Добавить',
-'Add new'						=>	'Добавить новый(ую)!?',
+'Add new'						=>	'Добавить новый', // Нигде не используется!
 'Delete'						=>	'Удалить',
 'Edit'							=>	'Редактировать',
 'Update'						=>	'Обновить',
@@ -27,7 +27,7 @@ $lang_admin_common = array(
 'Delete help'					=>	'Потребуется дополнительное подтверждение.',
 'Select all'					=>	'Выбрать всё',
 'Required'						=>	'(Обязательно для заполнения)',
-'Required warn'					=>	'Все поля отмеченные %s должны быть заполнены до отправки.',
+'Required warn'					=>	'Все поля отмеченные %s должны быть заполнены.',
 
 // Main Admin Menu Items and Title
 'Forum administration'			=>	'Администрирование',
@@ -46,8 +46,8 @@ $lang_admin_common = array(
 
 // Settings Submenu
 'Setup'							=>	'Установка',
-'Features'						=>	'Свойства (особенности, фичи?)',
-'Announcements'					=>	'Объявления',
+'Features'						=>	'Свойства',
+'Announcements'					=>	'Объявление',
 'Registration'					=>	'Регистрация',
 'E-mail'						=>	'E-mail',
 'Censoring'						=>	'Цензура',
@@ -60,8 +60,8 @@ $lang_admin_common = array(
 
 // Management Submenu
 'Reports'						=>	'Отчёты',
-'Prune topics'					=>	'Удаление старых тем',
-'Maintenance mode'				=>	'Профилактика форума',
+'Prune topics'					=>	'Удаление тем',
+'Maintenance mode'				=>	'Режим профилактики',
 'Rebuild index'					=>	'Пересоздание поискового индекса',
 
 // Extensions Submenu
