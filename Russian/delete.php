@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 // Language definitions used in delete.php
 $lang_delete = array(
