@@ -27,7 +27,7 @@ $lang_forum = array(
 'No lastpost info'			=>	'Нет сообщений',
 'by poster'					=>	'оставил %s',
 'Item status'				=>	'%s:',
-'Topic starter'				=>	'оставил %s',
+'Topic starter'             =>  'оставил <cite>%s</cite>',
 'New posts'					=>	'Новые сообщения',
 'Topic navigation'			=>	'( %s )',
 'Location'					=>	'Найдено на форуме : %s',
@@ -46,7 +46,7 @@ $lang_forum = array(
 'Forum options'				=>	'Параметры раздела',
 'Moderate forum'			=>	'Модерировать раздел',
 'Mark forum read'			=>	'Отметить раздел прочитанным',
-'RSS forum feed'			=>	'RSS',
+'RSS forum feed'            =>  'RSS',
 'New posts info'			=>	'Перейти к сообщениям после вашего последнего посещения'
 
 );

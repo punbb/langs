@@ -32,6 +32,10 @@ $lang_search = array(
 'Show as posts'				=>	'Как сообщения',
 'Submit search'				=>	'Начать поиск',
 'User defined search'		=>	'Расширенный поиск',
+'Search in'                 =>  'Искать в',
+'Message and subject'       =>  'Сообщениях и заголовках тем',
+'Message only'              =>  'Только в сообщениях',
+'Topic only'       			=>  'Только в заголовках тем',
 
 // Results
 'Search results'			=>	'Результаты поиска',
@@ -47,7 +51,7 @@ $lang_search = array(
 'Posts by user'				=>	'Сообщения от этого пользователя',
 'Perform new search'		=>	'Начать новый поиск',
 'Search options'			=>	'Настройки поиска',
-'Location'					=>	'Раздел: %s',
+'Posted in'                 =>  'Оставлено в ',
 'No terms'					=>	'Вы должны ввести хотя бы одно ключевое слово и/или имя автора для поиска.',
 'No hits'					=>	'Ваш поиск не дал результатов.',
 'No user posts'				=>	'Нет сообщений этого пользователя в этом разделе форума.',

@@ -1,5 +1,6 @@
 <?php
 
+// Language definitions used in the index page of the admin panel
 // Beta Russian language pack [PunBB.ru community ]
 //Translate by Wolverine (wolverine@digitalplace.ru) 
 
@@ -9,7 +10,8 @@ $lang_admin_index = array(
 'Alerts'						=>	'Сообщения администратору',
 'Check for updates enabled'		=>	'Включена автоматическая проверка обновлений и исправлений на punbb.informer.com.',
 'Check for updates manual'		=>	'Проверка на обновления',	// Link text
-'PunBB version'				=>	'Версия PunBB',
+'Copyright message'             =>  '&copy; 2008-2009 <a href="http://punbb.informer.com/">PunBB</a>, частично основан на коде &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
+'PunBB version'				    =>	'Версия PunBB',
 'Not available'					=>	'Отсутствует',
 'Not applicable'				=>	'Не доступно',
 'Server load'					=>	'Загруженность сервера',

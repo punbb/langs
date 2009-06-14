@@ -8,8 +8,8 @@ $lang_common = array(
 'lang_identifier'			=>	'ru',
 
 // Number formatting
-'lang_decimal_point'	=>	',',
-'lang_thousands_sep'	=>	' ',
+'lang_decimal_point'        =>    '.',
+'lang_thousands_sep'        =>    ',',
 
 // Notices
 'Bad request'				=>	'Неверный запрос. Ссылка, по которой вы пришли, неверна или устарела.',
@@ -85,7 +85,7 @@ $lang_common = array(
 'Item info single'			=>	'%s [ %s ]',
 'Item info plural'			=>	'%s [ с %s по %s из %s ]', // e.g. Topics [ 10 to 20 of 30 ]
 'Info separator'			=>	' ', // e.g. 1 Page | 10 Topics
-'Powered by'				=>	'На основе <strong>%s</strong>',
+'Powered by'                =>  'На основе <strong>%s</strong>, при поддержке <strong>%s</strong>.',
 'Maintenance'				=>	'Профилактика',
 
 // CSRF confirmation form
@@ -146,21 +146,22 @@ $lang_common = array(
 'Jump to'					=>	'Перейти в раздел:',
 
 // For extern.php RSS feed
-'ATOM Feed'					=>	'Atom',
-'RSS Feed'					=>	'RSS',
 'RSS description'			=>	'Недавние темы раздела «%s».',
 'RSS description topic'		=>	'Недавние сообщения в теме «%s».',
 'RSS reply'					=>	'Re: ',	// The topic subject will be appended to this string (to signify a reply)
 
 // Accessibility
-'Skip to content'					=>	'Перейти к содержимому раздела',
+'Skip to content'			=>	'Перейти к содержимому раздела',
 
 // Debug information
-'Querytime'						=>	'Сгенерировано за %1$s секунд(ы), выполнено %2$s запросов',
-'Debug table'						=>	'Отладочная информация',
-'Debug summary'						=>	'Производительность базы данных',
-'Query times'						=>	'Время (с)',
-'Query'							=>	'Запрос',
-'Total query time'					=>	'Общее время запроса',
+'Querytime'					=>	'Сгенерировано за %1$s секунд(ы), выполнено %2$s запросов',
+'Debug table'				=>	'Отладочная информация',
+'Debug summary'				=>	'Производительность базы данных',
+'Query times'				=>	'Время (с)',
+'Query'						=>	'Запрос',
+'Total query time'			=>	'Общее время запроса',
+
+// For official extensions
+'Official extensions inst'    =>    '<span id="extensions-used" title="%1$s">Official extensions: %2$s installed.</span>',
 
 );
