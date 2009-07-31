@@ -168,7 +168,7 @@ $lang_admin_settings = array(
 'Registration rules legend'		=>	'Правила форума',
 'Require rules'					=>	'Использовать правила',
 'Require rules label'			=>	'Обязать пользователей принимать правила форума перед процедурой регистрации.',
-'Compose rules label'			=>	'Оформить правила',
+'Compose rules label'			=>	'Текст правил',
 'Compose rules help'			=>	'Можно использовать HTML в этом блоке.',
 'Rules default'					=>	'Введите сюда ваши правила.',
 
