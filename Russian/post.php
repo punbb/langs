@@ -54,7 +54,7 @@ $lang_post = array(
 'Edit reply'			 => 'Редактирование ответа',    //Edit reply
 'Silent edit'   		 => 'Не отображать сообщение о редактировании (не отображает «Отредактировано…» при просмотре темы с сообщениями)',    //Silent edit (don't display "Last edited by …" in topic view for this edit).
 'Preview edited topic'   => 'Предпросмотр отредактированной темы',    //Preview of your edited topic
-'Preview edited reply'   => 'Предпросомтр отредактированного ответа',    //Preview of your edited reply
+'Preview edited reply'   => 'Предпросмотр отредактированного ответа',    //Preview of your edited reply
 'Edit redirect' 		 => 'Сообщение отредактировано. Перенаправление…',    //Post updated. Redirecting …
 
 );
