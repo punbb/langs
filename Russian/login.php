@@ -16,7 +16,7 @@ $lang_login = array(
 'Login redirect'				 => 'Успешный вход. Перенаправление…',    //Logged in successfully. Redirecting …
 'Logout redirect'   			 => 'Вы вышли. Перенаправление…',    //Logged out. Redirecting …
 'No e-mail match'   			 => 'Зарегистрированного пользователя с e-mail адресом %s не существует',    //There is no user registered with the e-mail address %s.
-'Invalid e-mail'				 => 'E-mail адрес, который вы ввели, неправилен.',    //The e-mail address you entered is invalid.
+'Invalid e-mail'				 => 'Введеный E-mail адрес неверен.',    //The e-mail address you entered is invalid.
 'Login options' 				 => 'Возможно вам стоит %1$s или %2$s перед тем как входить на форум',    //Do you need to %1$s or obtain a %2$s before you login?
 'Obtain pass'   				 => 'напомнить пароль',    //new password
 'register'  					 => 'зарегистрироваться',    //register
@@ -26,7 +26,7 @@ $lang_login = array(
 'New password errors'   		 => '<strong>Внимание!</strong> Исправьте следующие ошибки:',    //<strong>Warning!</strong> The following errors must be corrected before a new password can be sent:
 'New password info' 			 => '<strong>Важно!</strong> По введенному вами e-mail адресу будет выслано письмо с инструкциями по смене пароля.',    //<strong>Important!</strong> An e-mail will be sent to the specified address with instructions on how to change your password.
 'New password cancel redirect'   => 'Запрос нового пароля отменен. Перенаправление…',    //New password request cancelled. Redirecting …
-'Forget mail'   				 => 'Сообщение выслано на указанный адрес вместе с инструкцией по изменению пароля. В случае каких-либо проблем вы можете обратиться к администратору',    //An e-mail has been sent to the specified address with instructions on how to change your password. If it does not arrive you can contact the forum administrator at %s.
+'Forget mail'   				 => 'Сообщение выслано на указанный адрес вместе с инструкцией по изменению пароля. В случае каких-либо проблем вы можете обратиться к администратору %s.',    //An e-mail has been sent to the specified address with instructions on how to change your password. If it does not arrive you can contact the forum administrator at %s.
 'Persistent login'  			 => 'Входить автоматически в следующий раз',    //Log me in automatically each time I visit.
 
 );
