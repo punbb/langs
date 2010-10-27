@@ -3,10 +3,10 @@
 // Language definitions used in all admin files
 $lang_admin_reports = array(
 
-'No reports selected'			=>	'Не выбраны обращения, которые отмечены, как прочтённые.',
-'Reports marked read'			=>	'Обращения отмечены, как обработанные.',
-'New reports heading'			=>	'Новые обращения (выберите и отметьте, как прочтённый, один или несколько)',
-'Empty reports heading'			=>	'Обращения не поступали',
+'No reports selected'			=>	'Не выбраны обращения, которые отмечены как прочтённые.',
+'Reports marked read'			=>	'Обращения отмечены как обработанные.',
+'New reports heading'			=>	'Новые обращения (выберите и отметьте как прочтённый один или несколько)',
+'Empty reports heading'			=>	'Обращений не поступало',
 'Reported by'					=>	'Поступило от %s',
 'Deleted forum'					=>	'Удалён форум',
 'Deleted topic'					=>	'Удалена тема',
@@ -14,9 +14,9 @@ $lang_admin_reports = array(
 'Deleted user'					=>	'Удалён пользователь',
 'Mark read'						=>	'Обработано',
 'Select report'					=>	'Выбрать обращение',
-'No new reports'				=>	'(нет обращений, которые не обработаны)',
+'No new reports'				=>	'(нет необработанных обращений)',
 'Read reports heading'			=>	'Последние 10 обработанных обращений',
-'No reports'					=>	'Нет обработанных либо не обработанных обращений для отображения.',
+'No reports'					=>	'Нет обработанных либо необработанных обращений для отображения.',
 'Marked read by'				=>	'[ Обработано %s %s ]',
 
 );

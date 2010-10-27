@@ -13,7 +13,7 @@ $lang_admin_index = array(
 'Copyright message'             =>  '&copy; 2008-2009 <a href="http://punbb.informer.com/">PunBB</a>, частично основан на коде &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
 'PunBB version'				    =>	'Версия PunBB',
 'Not available'					=>	'Отсутствует',
-'Not applicable'				=>	'Не доступно',
+'Not applicable'				=>	'Недоступно',
 'Server load'					=>	'Загруженность сервера',
 'users online'					=>	': активные пользователи',
 'Environment'					=>	'Сервер',
@@ -23,6 +23,6 @@ $lang_admin_index = array(
 'Database'						=>	'База данных',
 'Rows'							=>	'Строк',
 'Size'							=>	'Размер',
-'phpinfo disabled'				=>	'Функция PHP phpinfo() не доступна на этом сервере.',
+'phpinfo disabled'				=>	'Функция PHP phpinfo() недоступна на этом сервере.',
 
 );

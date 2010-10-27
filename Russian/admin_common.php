@@ -27,7 +27,7 @@ $lang_admin_common = array(
 'Delete help'					=>	'Потребуется дополнительное подтверждение.',
 'Select all'					=>	'Выбрать всё',
 'Required'						=>	'(Обязательно для заполнения)',
-'Required warn'					=>	'Все поля отмеченные %s должны быть заполнены.',
+'Required warn'					=>	'Все поля, отмеченные %s, должны быть заполнены.',
 
 // Main Admin Menu Items and Title
 'Forum administration'			=>	'Администрирование',
