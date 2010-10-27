@@ -8,9 +8,9 @@ $lang_post = array(
 'Too long subject'  	 => 'Заголовок не может быть длиннее 70 символов.',    //Subjects cannot be longer than 70 characters.
 'All caps subject'  	 => 'Заголовок не может содержать только заглавные буквы.',    //Subjects cannot contain only capital letters.
 'No message'			 => 'Вы должны ввести текст сообщения.',    //You must enter a message.
-'Too long message'  	 => 'Длина вашего сообщения %s байт. Это превышает лимит форума в %s байтов.',    //Your post length is %s bytes. This exceeds the %s bytes limit.
+'Too long message'  	 => 'Длина вашего сообщения %s байт. Это превышает лимит форума в %s байт.',    //Your post length is %s bytes. This exceeds the %s bytes limit.
 'All caps message'  	 => 'Сообщение не может содержать только заглавные буквы.',    //Posts cannot contain only capital letters.
-'CSRF token mismatch'    => 'Обнаружена проблема безопасности. Скорее всего, прошло много времени с тех пор как вы открыли страницу. Нажмите кнопку «Отправить» еще раз.',    //Unable to confirm security token. A likely cause for this is that some time passed between when you first entered the page and when you posted the form. Clicking "Submit" again should solve the problem.
+'CSRF token mismatch'    => 'Обнаружена проблема безопасности. Скорее всего, прошло много времени с тех пор, как вы открыли страницу. Нажмите кнопку «Отправить» еще раз.',    //Unable to confirm security token. A likely cause for this is that some time passed between when you first entered the page and when you posted the form. Clicking "Submit" again should solve the problem.
 'Invalid e-mail'		 => 'Неправильный адрес e-mail.',    //The e-mail address you entered is invalid.
 
 // Posting

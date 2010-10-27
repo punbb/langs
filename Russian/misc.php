@@ -11,7 +11,7 @@ $lang_misc = array(
 'Form e-mail errors'		 => '<strong>Внимание!</strong> Исправьте следующие ошибки для отправки вашего письма:',    //<strong>Warning!</strong> The following errors must be corrected before your message can be sent:
 'No e-mail subject' 		 => 'Необходимо ввести тему письма.',    //You must enter a subject.
 'No e-mail message' 		 => 'Необходимо ввести текст письма.',    //You must enter a message.
-'Too long e-mail message'    => 'Длина вашего сообщения — %s байт. Это превышает лимит форума в %s байтов.',    //Your message length is %s bytes. This exceeds the %s bytes limit.
+'Too long e-mail message'    => 'Длина вашего сообщения — %s байт. Это превышает лимит форума в %s байт.',    //Your message length is %s bytes. This exceeds the %s bytes limit.
 'Email flood'   			 => 'Должно пройти не менее %s секунд между отправками писем. Пожалуйста, подождите немного и попробуйте еще раз.',    //At least %s seconds have to pass between sent emails. Please wait a while and try sending again.
 'E-mail sent redirect'  	 => 'Письмо отправлено. Перенаправление…',    //E-mail sent. Redirecting …
 'E-mail subject'			 => 'Тема',    //Subject
@@ -77,7 +77,7 @@ $lang_misc = array(
 'No topics selected'		 => 'Нужно выбрать хотя бы одну тему.',    //You must select at least one topic.
 'Stick topic redirect'  	 => 'Тема отмечена как важная. Перенаправление…',    //Topic is now sticky. Redirecting …
 'Unstick topic redirect'	 => 'Отметка важности с темы снята. Перенаправление…',    //Topic no longer sticky. Redirecting …
-'Merge error'   			 => 'Для объединения нужно выбрать более 1-й темы.',    //You should select more than 1 topic to merge.
+'Merge error'   			 => 'Для объединения нужно выбрать более одной темы.',    //You should select more than 1 topic to merge.
 
 // Moderate topic
 'Posts' 					 => 'Сообщения',    //Posts
