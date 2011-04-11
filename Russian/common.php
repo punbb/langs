@@ -50,7 +50,7 @@ $lang_common = array(
 'Unanswered topics title'	=>	'Найти темы, на которые не было ответов.',
 'Username'					=>	'Имя пользователя',
 'Registered'				=>	'Зарегистрирован',
-'Write message'				=>	'Напишите сообщение:',
+'Write message'				=>	'Напишите сообщение',
 'Forum'						=>	'Форум',    // TODO: never used
 'Posts'						=>	'Сообщения', // TODO: never used
 'Pages'						=>	'Страницы',
@@ -87,6 +87,7 @@ $lang_common = array(
 'Info separator'			=>	' ', // e.g. 1 Page | 10 Topics
 'Powered by'                =>  'На основе <strong>%s</strong>, при поддержке <strong>%s</strong>.',
 'Maintenance'				=>	'Профилактика',
+'Installed extension'                   =>      'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
 
 // CSRF confirmation form
 'Confirm'					=>	'Подтвердить',	// Button
