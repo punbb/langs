@@ -10,7 +10,7 @@ $lang_admin_index = array(
 'Alerts'						=>	'Сообщения администратору',
 'Check for updates enabled'		=>	'Включена автоматическая проверка обновлений и исправлений на punbb.informer.com.',
 'Check for updates manual'		=>	'Проверка на обновления',	// Link text
-'Copyright message'             =>  '&copy; 2008-2009 <a href="http://punbb.informer.com/">PunBB</a>, частично основан на коде &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
+'Copyright message'             =>  '&copy; 2008-2011 <a href="http://punbb.informer.com/">PunBB</a>, частично основан на коде &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
 'PunBB version'				    =>	'Версия PunBB',
 'Not available'					=>	'Отсутствует',
 'Not applicable'				=>	'Недоступно',
