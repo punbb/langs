@@ -27,6 +27,8 @@ $lang_misc = array(
 'Report post'   			 => 'Сообщить модератору',    //Report post
 'Reason'					 => 'Причина обращения',    //Reason
 'Reason help'   			 => 'Укажите краткую причину обращения',    //Enter a short reason why you are reporting this post.
+'Too long reason'              =>  'Длинна вашего обращения — %s байт. Это превышает лимит форума в %s байт.', //Your report length is %s bytes. This exceeds the %s bytes limit.
+'Report errors'   		=>  '<strong>Внимание!</strong> Исправьте следующие ошибки для отправки вашего обращения:', //<strong>Warning!</strong> The following errors must be corrected before your report can be sent:
 
 // Subscriptions
 'Already subscribed'		 => 'Вы уже подписаны на эту тему.',    //You are already subscribed to this topic.
