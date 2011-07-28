@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru)
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in index.php
 $lang_index = array(
@@ -35,7 +35,7 @@ $lang_index = array(
 'Users plural'				=>	'<strong>%s</strong> зарегистрированных пользователей',
 'Users single'				=>	'<strong>1</strong> зарегистрированный пользователь',
 'Users none'				=>	'<strong>0</strong> зарегистрированных пользователей',
-'Currently online'			=>	'Сейчас на форуме ( %s )',
+'Currently online'			=>	'Сейчас на форуме %s',
 'Online stats separator'	=>	', ',
 'Online list separator'		=>	', ',
 'Statistics'				=>	'Статистика форума',

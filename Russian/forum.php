@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru)
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in viewforum.php
 $lang_forum = array(
@@ -47,6 +47,9 @@ $lang_forum = array(
 'Moderate forum'			=>	'Модерировать раздел',
 'Mark forum read'			=>	'Отметить раздел прочитанным',
 'RSS forum feed'            =>  'RSS',
-'New posts info'			=>	'Перейти к сообщениям после вашего последнего посещения'
+'New posts info'			=>	'Перейти к сообщениям после вашего последнего посещения',
+'Unsubscribe'				=>	'Отписаться',
+'Subscribe'					=>	'Подписаться',
+'Subscribe info'			=>	'Получать уведомления о новых темах по email.',
 
 );

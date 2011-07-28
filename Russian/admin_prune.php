@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions used in all admin files
 $lang_admin_prune = array(
 

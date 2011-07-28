@@ -1,14 +1,13 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-// Translate by Wolverine (wolverine@digitalplace.ru) Fixed by PunBB.ru
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in all admin files
 $lang_admin_common = array(
 
 // Common items
 'Save changes'					=>	'Сохранить изменения',
-'Redirect'						=>	'Перенаправление…',
 'Add'							=>	'Добавить',
 'Add new'						=>	'Добавить новый', // Нигде не используется!
 'Delete'						=>	'Удалить',
@@ -27,7 +26,7 @@ $lang_admin_common = array(
 'Delete help'					=>	'Потребуется дополнительное подтверждение.',
 'Select all'					=>	'Выбрать всё',
 'Required'						=>	'(Обязательно для заполнения)',
-'Required warn'					=>	'Все поля, отмеченные %s, должны быть заполнены.',
+'Required warn'					=>	'Все поля, отмеченные жирным шрифтом, должны быть заполнены перед отправкой формы.',
 
 // Main Admin Menu Items and Title
 'Forum administration'			=>	'Администрирование',
@@ -49,7 +48,6 @@ $lang_admin_common = array(
 'Features'						=>	'Свойства',
 'Announcements'					=>	'Объявление',
 'Registration'					=>	'Регистрация',
-'E-mail'						=>	'E-mail',
 'Censoring'						=>	'Цензура',
 
 // Users Submenu

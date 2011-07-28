@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru) 
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in userlist.php
 $lang_ul = array(
@@ -29,7 +29,7 @@ $lang_ul = array(
 'Submit user search'	=>	'Отправить',
 'Title'					=>	'Статус',
 'Posts'					=>	'Сообщений',
-'User list options'		=>	'Настройки списка пользователей'
+'User list options'		=>	'Настройки списка пользователей',
 
 
 );

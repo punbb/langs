@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions used in all admin files
 $lang_admin_reports = array(
 
@@ -17,6 +19,6 @@ $lang_admin_reports = array(
 'No new reports'				=>	'(нет необработанных обращений)',
 'Read reports heading'			=>	'Последние 10 обработанных обращений',
 'No reports'					=>	'Нет обработанных либо необработанных обращений для отображения.',
-'Marked read by'				=>	'[ Обработано %s %s ]',
+'Marked read by'				=>	'Обработано %s %s',
 
 );

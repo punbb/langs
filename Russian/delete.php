@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions used in delete.php
 $lang_delete = array(
 
@@ -16,7 +18,7 @@ $lang_delete = array(
 'Topic title'			=>	'Тема: %s',
 'Reply title'			=>	'Ответ на «%s»',
 'Please confirm'		=>	'Пожалуйста, подтвердите:',
-'Post del redirect'		=>	'Сообщение удалено. Переадресация…',
-'Topic del redirect'	=>	'Тема удалена. Переадресация…'
+'Post del redirect'		=>	'Сообщение удалено.',
+'Topic del redirect'	=>	'Тема удалена.',
 
 );

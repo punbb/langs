@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru) 
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in all admin files
 $lang_admin_users = array(
@@ -17,7 +17,7 @@ $lang_admin_users = array(
 'Signature label'				=>	'Подпись',
 'Admin note label'				=>	'Примечание',
 'Searches contact legend'		=>	'Детали контакта',
-'E-mail address label'			=>	'E-mail адрес',
+'E-mail address label'			=>	'Email адрес',
 'Website label'					=>	'Сайт',
 'Searches activity legend'		=>	'Активность пользователя',
 'More posts label'				=>	'Сообщений больше чем',
@@ -44,7 +44,7 @@ $lang_admin_users = array(
 'User information'				=>	'Информация о пользователе',
 'IP address'					=>	'IP-адрес',
 'Username'						=>	'Имя',
-'E-mail'						=>	'E-mail',
+'E-mail'						=>	'Email',
 'Admin note'					=>	'Примечание администратора',
 
 'Invalid IP address'			=>	'Неверный формат IP-адреса.',
@@ -79,7 +79,7 @@ $lang_admin_users = array(
 'Ban admin message'				=>	'Один из выбранных пользователей является администратором и не может быть забанен. Если необходимо забанить администратора, то сначала нужно переместить его в другую группу пользователей.',
 'Users banned'					=>	'Пользователи забанены.',
 'Mass ban info'					=>	'Можно задать сообщение, которое будет показываться забаненным пользователям при заходе на сайт, и дату истечения бана.',
-'Ban settings legend'                           =>      'Бан пользователей',
+'Ban settings legend'           =>  'Бан пользователей',
 'Change group head'				=>	'Переместить выбранных пользователей в новую группу',
 'User groups updated'			=>	'Группы пользователей обновлены.',
 'Move users legend'				=>	'Перемещение пользователей',
@@ -87,7 +87,7 @@ $lang_admin_users = array(
 'Move users to label'			=>	'Переместить пользователей в группу',
 
 // admin_users tables
-'Username column'				=>	'Имя — E-mail — Примечание администратора',
+'Username column'				=>	'Имя — Email — Примечание администратора',
 'Title column'					=>	'Статус',
 'Posts'							=>	'Сообщений',
 'Actions'						=>	'Действия',
@@ -101,6 +101,6 @@ $lang_admin_users = array(
 'Cannot find IP'				=>	'Введенный IP-адрес не найден в базе данных.',
 'Not verified'					=>	'Не проверен',
 'No match'						=>	'Ничего не найдено',
-'User search results'			=>	'Результат поиска пользователей'
+'User search results'			=>	'Результат поиска пользователей',
 
 );
