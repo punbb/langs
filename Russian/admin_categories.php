@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru) 
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in admin-categories
 $lang_admin_categories = array(
@@ -15,13 +15,13 @@ $lang_admin_categories = array(
 'Category name label'			=>	'Имя категории',
 'Position label'				=>	'Позиция',
 'Del category head'				=>	'Удаление категории (вместе со всеми содержащимися в ней форумами и сообщениями)',
-'Delete category'				=>	'Удалить категорию',// submit button
+'Delete category'				=>	'Удалить категорию',
 'Select category label'			=>	'Выбрать категорию',
-'Confirm delete cat'			=>	'Подтверждение удаления категории «%s»', 
+'Confirm delete cat'			=>	'Подтверждение удаления категории «%s»',
 'Delete category warning'		=>	'<strong>ВНИМАНИЕ!</strong> Удаление категории приведёт к удалению всех форумов и сообщений (если есть) в этой категории!',
 'Edit categories head'			=>	'Редактирование категорий (изменение имени категории и/или её позиции)',
 'Edit categories legend'		=>	'Редактирование категорий',
-'Edit category legend'			=>	'Редактирование категории%s', 
+'Edit category legend'			=>	'Редактирование категории%s',
 'Update all categories'			=>	'Обновить все категории',
 'Categories updated'			=>	'Категории обновлены.',
 'Category added'				=>	'Категория добавлена.',

@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions for frequently used strings
 $lang_common = array(
 
@@ -36,12 +38,12 @@ $lang_common = array(
 'Forum message'				=>	'Сообщение в разделе',
 'Maintenance warning'		=>	'<strong>ВНИМАНИЕ! Включён %s.</strong> НЕ ВЫХОДИТЕ ИЗ-ПОД УЧЁТНОЙ ЗАПИСИ — вы не сможете войти обратно.',
 'Maintenance mode'			=>	'режим профилактики',
-'Redirecting'				=>	'Перенаправление',
+'Redirecting'				=>	' Перенаправление',
 'Forwarding info'			=>	'Вы будете автоматически перенаправлены на новую страницу через %s %s.',
 'second'					=>	'секунду',	// singular
 'seconds'					=>	'секунд',	// plural
 'Click redirect'			=>	'Нажмите здесь, если не хотите ждать (или если ваш браузер не перенаправляет автоматически)',
-'Invalid e-mail'			=>	'Введённый адрес e-mail неверен.',
+'Invalid e-mail'			=>	'Введённый адрес email неверен.',
 'New posts'					=>	'Новые сообщения',	// the link that leads to the first new post
 'New posts title'			=>	'Найти темы с сообщениями после вашего последнего посещения.',	// the popup text for new posts links
 'Active topics'				=>	'Активные темы',
@@ -63,12 +65,11 @@ $lang_common = array(
 'Image link'				=>	'изображение',	// This is displayed (i.e. <image>) instead of images when "Show images" is disabled in the profile
 'wrote'						=>	'пишет',	// For [quote]'s (e.g., User wrote:)
 'Code'						=>	'Код',		// For [code]'s
-'Forum mailer'				=>	'Почтовый робот форума «%s»',	// As in "MyForums Mailer" in the signature of outgoing e-mails
+'Forum mailer'				=>	'Почтовый робот форума «%s»',	// As in "MyForums Mailer" in the signature of outgoing emails
 'Write message legend'		=>	'Составьте сообщение',
 'Required information'		=>	'Обязательно к заполнению',
 'Reqmark'					=>	'*',
-'Required'					=>	'(Обязательно)',
-'Required warn'				=>	'Все поля, отмеченные знаком «%s», должны быть заполнены перед отправкой формы.',
+'Required warn'				=>	'Все поля, отмеченные жирным шрифтом, должны быть заполнены перед отправкой формы.',
 'Crumb separator'			=>	' »&#160;', // The character or text that separates links in breadcrumbs
 'Title separator'			=>	' — ',
 'Page separator'			=>	'&#160;', //The character or text that separates page numbers
@@ -133,7 +134,7 @@ $lang_common = array(
 
 // Alerts
 'New alerts'				=>	'Новые уведомления',
-'Maintenance alert'			=>	'<strong>ВНИМАНИЕ! Включён режим профилактики.</strong> Форум находится в режиме профилактики. <em>НЕ ВЫХОДИТЕ</em> из-под своей учётной записи — вы не сможете войти обратно.',
+'Maintenance alert'			=>	'<strong>Включён режим профилактики.</strong> <em>НЕ ВЫХОДИТЕ</em> из-под своей учётной записи — вы не сможете войти обратно.',
 'Updates'					=>	'Обновления PunBB',
 'Updates failed'			=>	'Последняя проверка обновлений на punbb.informer.com завершилась неудачно. Это может означать, что сервис обновлений перегружен или недоступен. Если данное предупреждение не исчезнет в течение одного-двух дней, можно отключить автоматическую проверку и проверять наличие обновлений вручную.',
 'Updates version n hf'		=>	'Новая версия PunBB — %s доступна для загрузки на <a href="http://punbb.informer.com/">punbb.informer.com</a>. Кроме тоого, один или несколько пакетов исправлений доступны для установки на вкладке «Расширения» интерфейса администратора.',

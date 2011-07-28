@@ -1,7 +1,7 @@
 <?php
 
-// Beta Russian language pack [PunBB.ru community ]
-//Translate by Wolverine (wolverine@digitalplace.ru) 
+// Russian language pack [PunBB.ru community] 1.4.0
+// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
 
 // Language definitions used in viewtopic.php
 $lang_topic = array(
@@ -24,7 +24,7 @@ $lang_topic = array(
 'Posts info'			=>	'Сообщений:',
 'User possessive'		=>	'%s', // As in "Author's Website"
 'Visit website'			=>	'Сайт %s',
-'E-mail'				=>	'E-mail',
+'E-mail'				=>	'Email',
 'Online'				=>	'Активен',
 'Offline'				=>	'Неактивен',
 'Last edited'			=>	'Отредактировано %1$s (%2$s)',
@@ -35,7 +35,7 @@ $lang_topic = array(
 'Quote'					=>	'Цитировать',
 'Unsubscribe'			=>	'Отписаться',
 'Subscribe'				=>	'Подписаться',
-'Subscribe info'		=>	'Получать уведомления о новых сообщениях по e-mail.',
+'Subscribe info'		=>	'Получать уведомления о новых сообщениях по email.',
 'RSS topic feed'		=>	'RSS',
 'Quick post'			=>	'Быстрый ответ',
 'Post'					=>	'Сообщение',
