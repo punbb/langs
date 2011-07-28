@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions used in search.php
 $lang_search = array(
 
@@ -30,8 +32,9 @@ $lang_search = array(
 'Display results'			=>	'Показывать результаты как',
 'Show as topics'			=>	'Как темы',
 'Show as posts'				=>	'Как сообщения',
-'Submit search'				=>	'Начать поиск',
-'User defined search'		=>	'Расширенный поиск',
+'Submit search'				=>	'Искать',
+'User defined search'		=>	'Нормальный поиск',
+'Advanced search'			=>	'Расширенный поиск',
 'Search in'                 =>  'Искать в',
 'Message and subject'       =>  'Сообщениях и заголовках тем',
 'Message only'              =>  'Только в сообщениях',
@@ -40,9 +43,12 @@ $lang_search = array(
 // Results
 'Search results'			=>	'Результаты поиска',
 'Topics with new'			=>	'Темы с новыми сообщениями',
+'All Topics'				=>	'Показать все темы',
 'Recently active topics'	=>	'Последние активные темы',
 'Unanswered topics'			=>	'Темы без ответа',
 'Subscriptions'				=>	'Подписки',
+'Forum subscriptions'		=>	'Форум подписки',//чет не по русски
+'Forums found'				=>	'Форумов найдено',
 'Topics found'				=>	'Тем найдено',
 'Posts found'				=>	'Сообщений найдено',
 'Topics by'					=>	'Темы от %s',
@@ -57,6 +63,7 @@ $lang_search = array(
 'No user posts'				=>	'Нет сообщений этого пользователя в этом разделе форума.',
 'No user topics'			=>	'Нет тем этого пользователя в этом разделе форума.',
 'No subscriptions'			=>	'Сейчас вы не подписаны ни на одну тему.',
+'No forum subscriptions'	=>	'Сейчас вы не подписаны ни на один форум.',
 'No new posts'				=>	'В темах не появилось новых сообщений с момента вашего последнего визита.',
 'No recent posts'			=>	'Нет новых сообщений за последнее время.',
 'No unanswered'				=>	'На форуме нет сообщений без ответа в этом разделе.',

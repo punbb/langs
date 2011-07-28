@@ -1,5 +1,7 @@
 <?php
 
+// Russian language pack [PunBB.ru community] 1.4.0
+
 // Language definitions used in admin_censoring
 $lang_admin_censoring = array(
 
