@@ -1,11 +1,10 @@
-Subject: New topic in forum: <forum_name>
+Subject: Новая тема в форуме: <forum_name>
 
-<topic_starter> has created new topic <topic_subject> in forum to which you are subscribed.
+<topic_starter> создал новую тему <topic_subject> в форуме, на который вы подписаны.
 
-The new topic is located at <topic_url>
+Адрес темы: <topic_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+Для отказа от подписки посетите: <unsubscribe_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
