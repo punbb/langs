@@ -9,7 +9,7 @@ $lang_misc = array(
 'Mark forum read redirect'   => 'Все темы в данном разделе отмечены как прочитанные.',
 
 // Send e-mail
-'Form e-mail disabled'  	 => 'Пользователь, которому вы хотите отправить письмо, запретил отправку ему сообщений email.',
+'Form e-mail disabled'  	 => 'Пользователь, которому вы хотите отправить письмо, запретил отправку ему сообщений по электронной почте.',
 'Form e-mail errors'		 => '<strong>Внимание!</strong> Исправьте следующие ошибки для отправки вашего письма:',
 'No e-mail subject' 		 => 'Необходимо ввести тему письма.',
 'No e-mail message' 		 => 'Необходимо ввести текст письма.',
@@ -18,7 +18,7 @@ $lang_misc = array(
 'E-mail sent redirect'  	 => 'Письмо отправлено.',
 'E-mail subject'			 => 'Тема',
 'E-mail message'			 => 'Сообщение',
-'E-mail disclosure note'	 => '<strong>Важно!</strong> При отправке письма через эту форму ваш адрес email будет виден получателю.',
+'E-mail disclosure note'	 => '<strong>Важно!</strong> При отправке письма через эту форму ваш адрес электронной почты будет виден получателю.',
 'Write e-mail'  			 => 'Составьте письмо',
 'Send forum e-mail' 		 => 'Отправить письмо %s, используя форум',
 
@@ -29,14 +29,14 @@ $lang_misc = array(
 'Report post'   			 => 'Сообщить модератору',
 'Reason'					 => 'Причина обращения',
 'Reason help'   			 => 'Укажите краткую причину обращения',
-'Too long reason'            =>  'Длинна вашего обращения — %s байт. Это превышает лимит форума в %s байт.',
-'Report errors'   			 =>  '<strong>Внимание!</strong> Исправьте следующие ошибки для отправки вашего обращения:',
+'Too long reason'            => 'Длина вашего обращения — %s байт. Это превышает лимит форума в %s байт.',
+'Report errors'   			 => '<strong>Внимание!</strong> Исправьте следующие ошибки для отправки вашего обращения:',
 
 // Subscriptions
 'Already subscribed'		 => 'Вы уже подписаны на эту тему.',
 'Subscribe redirect'		 => 'Подписка добавлена.',
 'Not subscribed'			 => 'Вы не подписаны на эту тему.',
-'Unsubscribe redirect'  	 => 'Вы отписались.',
+'Unsubscribe redirect'  	 => 'Подписка удалена.',
 
 // General forum and topic moderation
 'Moderate forum'			 => 'Модерировать форум',
@@ -63,14 +63,14 @@ $lang_misc = array(
 'To new forum'  			 => 'в новый раздел',
 'Move to'   				 => 'Переместить в',
 'Nowhere to move'   		 => 'Нет разделов, в которые можно перенести темы.',
-'Leave redirect'			 => 'Оставить ссылку на темы/тему в этом форуме',
+'Leave redirect'			 => 'Оставить ссылку на темы в этом форуме',
 'Leave redirects'   		 => 'Оставить ссылку в разделе, где тема находилась ранее.',
 'Leave merge redirects' 	 => 'Оставить ссылки на объединяемые темы.',
 'Move topic redirect'   	 => 'Тема перенесена.',
 'Move topics redirect'  	 => 'Темы перенесены.',
-'Merge topics redirect' 	 => 'Темы соединены.',
-'Delete topic comply'   	 => 'Вы уверены, что хотите удалить выбранную тему?',
-'Delete topics comply'  	 => 'Вы уверены, что хотите удалить выбранные темы?',
+'Merge topics redirect' 	 => 'Темы объединены.',
+'Delete topic comply'   	 => 'Удалить выбранную тему?',
+'Delete topics comply'  	 => 'Удалить выбранные темы?',
 'Delete topic redirect' 	 => 'Тема удалена.',
 'Delete topics redirect'	 => 'Темы удалены.',
 'Open topic redirect'   	 => 'Тема открыта.',
@@ -87,7 +87,7 @@ $lang_misc = array(
 'Delete posts'  			 => 'Удалить выбранные сообщения',
 'Split posts'   			 => 'Разделить выбранные сообщения',
 'Delete whole topic'		 => 'Удалить всю тему',
-'Moderate topic head'   	 => 'Модерирование темы : %s',
+'Moderate topic head'   	 => 'Модерирование темы: %s',
 'New subject'   			 => 'Новый заголовок темы:',
 'Select post'   			 => 'Выбрать сообщение',
 'Confirm post delete'   	 => 'Подтверждение удаления выбранных сообщений',

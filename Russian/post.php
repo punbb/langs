@@ -1,7 +1,5 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-
 // Language definitions used in post.php and edit.php
 $lang_post = array(
 
@@ -22,14 +20,14 @@ $lang_post = array(
 'Compose edited topic'   => 'Отредактируйте и отправьте вашу тему',
 'Guest post legend' 	 => 'Важная информация для гостей',
 'Post errors'   		 => '<strong>Внимание!</strong> Исправьте следующие ошибки, чтобы добавить сообщение:',
-'Guest name'			 => 'Ваше имя',
-'Guest e-mail'  		 => 'Ваш email',
+'Guest name'			 => 'Имя',
+'Guest e-mail'  		 => 'Эл. почта',
 'Post redirect' 		 => 'Сообщение добавлено.',
 'Post reply'			 => 'Добавление ответа',
 'Post new topic'		 => 'Начать новую тему',
 'Topic subject' 		 => 'Заголовок темы',
 'Write message' 		 => 'Текст сообщения',
-'Hide smilies'  		 => 'Не показывать графические смайлики для этого сообщения',
+'Hide smilies'  		 => 'Не показывать графические смайлики',
 'Subscribe' 			 => 'Подписаться и следить за ответами в этой теме',
 'Stay subscribed'   	 => 'Оставаться подписанным к этой теме.',
 'Topic review'  		 => 'Обзор темы (новые сверху)',
@@ -51,7 +49,7 @@ $lang_post = array(
 'Edit post legend'  	 => 'Отредактируйте сообщение и нажмите отправить',
 'Edit topic'			 => 'Редактирование темы',
 'Edit reply'			 => 'Редактирование ответа',
-'Silent edit'   		 => 'Не отображать сообщение о редактировании (не отображает «Отредактировано…» при просмотре темы с сообщениями)',
+'Silent edit'   		 => 'Не отображать сообщение о редактировании',
 'Preview edited topic'   => 'Предпросмотр отредактированной темы',
 'Preview edited reply'   => 'Предпросмотр отредактированного ответа',
 'Edit redirect' 		 => 'Сообщение отредактировано.',
