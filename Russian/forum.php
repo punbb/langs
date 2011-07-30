@@ -1,8 +1,5 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-// Partially based on Translate by Wolverine (wolverine@digitalplace.ru) for 1.3.4
-
 // Language definitions used in viewforum.php
 $lang_forum = array(
 

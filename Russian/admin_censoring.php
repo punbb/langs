@@ -10,13 +10,13 @@ $lang_admin_censoring = array(
 'Add censored word extra'			=> 'Функция «<strong>Цензура</strong>» должна быть включена в разделе %s.',
 'Censored word label'				=> 'Нецензурное слово',
 'Replacement label'					=> 'Замена',
-'Add new word legend'				=> 'Добавить нецензурное слово',
-'Existing censored word legend'		=> 'Существующее нецензурное слово',
+'Add new word legend'				=> 'Добавить слово',
+'Existing censored word legend'		=> 'Существующее слово',
 'No censored words'					=> 'Нецензурных слов нет.',
 'Censor word added'					=> 'Нецензурное слово добавлено.',
 'Censor word updated'				=> 'Нецензурное слово обновлено.',
 'Censor word removed'				=> 'Нецензурное слово удалено.',
 'Must enter text message'			=> 'Необходимо ввести как искомый текст, так и его замену.',
-'Add word'							=> 'Добавить слово',
+'Add word'							=> 'Добавить',
 
 );

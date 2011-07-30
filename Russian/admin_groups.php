@@ -1,7 +1,5 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-
 // Language definitions used in all admin files
 $lang_admin_groups = array(
 
@@ -32,7 +30,7 @@ $lang_admin_groups = array(
 'Allow delete topics label' 	 => 'Разрешить удаление своих тем (включая все ответы).',
 'Allow set user title label'	 => 'Разрешить редактирование своих титулов.',
 'Allow use search label'		 => 'Разрешить использование поиска.',
-'Allow search users label'  	 => 'Разрешить использование текстового поиска пользователей.',
+'Allow search users label'  	 => 'Разрешить использование поиска пользователей.',
 'Allow send e-mail label'		 => 'Разрешить отправлять сообщения по электронной почте другим пользователям.',
 'Restrictions'  				 => 'Ограничения',
 'Mod permissions'   			 => 'Права модераторов',

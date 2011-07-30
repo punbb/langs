@@ -1,7 +1,5 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-
 // Language definitions used in search.php
 $lang_search = array(
 

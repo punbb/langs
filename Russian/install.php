@@ -1,7 +1,5 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-
 // Language definitions used in install.php
 $lang_install = array(
 
@@ -98,7 +96,7 @@ $lang_install = array(
 
 
 // Installation completed form
-'Success description'		=> 'Поздравляем! PunBB %s был успешно установлен.',
+'Success description'		=> 'Поздравляем! PunBB %s успешно установлен.',
 'Final instructions'		=> 'Последние инструкции',
 'No write info 1'			=> 'Важно! Для завершения установки вам необходимо нажать на кнопку, расположенную ниже, чтобы скачать файл под именем config.php. Затем вам нужно загрузить этот файл в корневую директорию вашего форума PunBB.',
 'No write info 2'			=> 'Как только вы загрузите в корневую директорию файл config.php, PunBB будет полностью установлен! Как только файл будет загружен, вы можете перейти %s.',

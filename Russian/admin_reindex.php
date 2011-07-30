@@ -18,7 +18,7 @@ $lang_admin_reindex = array(
 'Rebuilding index'			=> 'Пересоздание поискового индекса &#8230; Это может занять несколько минут, поэтому самое время выпить чашечку кофе  :-)',
 'Processing post'			=> 'Обрабатывается сообщение <strong>%s</strong> в теме <strong>%s</strong>.',
 'Javascript redirect'		=> 'JavaScript-перенаправление не удалось.',
-'Click to continue'			=> 'Для породолжения нажмите сюда',
+'Click to continue'			=> 'Нажмите для продолжения',
 'Rebuild index'				=> 'Перестроить индекс',
 
 );

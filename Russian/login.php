@@ -1,13 +1,11 @@
 <?php
 
-// Russian language pack [PunBB.ru community] 1.4.0
-
 // Language definitions used in login.php
 $lang_login = array(
 
 // Miscellaneous
 'Login' 						=> 'Войти',
-'Login info'					=> 'Вход на форум %s.',
+'Login info'					=> 'Вход на форум %s',
 'Username'  					=> 'Имя пользователя',
 'Password'  					=> 'Пароль',
 'Remember me'   				=> 'Запомнить меня',
@@ -20,7 +18,7 @@ $lang_login = array(
 'No e-mail match'   			=> 'Пользователя с адресом электронной почты %s не существует',
 'Invalid e-mail'				=> 'Введеный адрес электронной почты неверен.',
 'Login options' 				=> 'Возможно вы хотите %1$s или %2$s',
-'Obtain pass'   				=> 'напомнить пароль',
+'Obtain pass'   				=> 'вспомнить пароль',
 'register'  					=> 'зарегистрироваться',
 'Submit password request'   	=> 'Отправить запрос',
 'E-mail flood'   				=> 'С этой учетной записи уже запрашивали новый пароль около %s секунд назад. Пожалуйста, подождите немного, прежде чем повторять запрос.',

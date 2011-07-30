@@ -81,8 +81,8 @@ $lang_common = array(
 'Help page'					=> 'Справка по: %s',
 'Re'						=> 'Re:',
 'Page info'					=> '(Страница %1$s из %2$s)',
-'Item info single'			=> '%s [ %s ]',
-'Item info plural'			=> '%s [ с %s по %s из %s ]', // e.g. Topics [ 10 to 20 of 30 ]
+'Item info single'			=> '%s %s',
+'Item info plural'			=> '%s с %s по %s из %s', // e.g. Topics [ 10 to 20 of 30 ]
 'Info separator'			=> ' ', // e.g. 1 Page | 10 Topics
 'Powered by'                => 'На основе %s, при поддержке %s.',
 'Maintenance'				=> 'Профилактика',
@@ -113,7 +113,7 @@ $lang_common = array(
 'BBCode code problem'		=> 'Проблема с тегами [code]',
 
 // Stuff for the navigator (top of every page)
-'Index'						=> 'Главная',
+'Index'						=> 'Форум',
 'User list'					=> 'Пользователи',
 'Rules'						=> 'Правила',
 'Search'					=> 'Поиск',
