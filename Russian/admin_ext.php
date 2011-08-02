@@ -3,8 +3,8 @@
 // Language definitions used in all admin files
 $lang_admin_ext = array(
 
-'Install extension'				=> 'Установка расширения',
-'Upgrade extension'				=> 'Обновить расширение',
+'Install extension'				=> 'Установить',
+'Upgrade extension'				=> 'Обновить',
 'Extensions available'			=> 'Расширения, доступные для установки',
 'Hotfixes available'			=> 'Исправления, доступные для установки',
 'Installed extensions'			=> 'Установленные расширения',
