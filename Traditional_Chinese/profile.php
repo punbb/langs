@@ -3,20 +3,20 @@
 $lang_profile = array(
 
 // Navigation and sections
-'Profile redirect'			=>	'個人資料已更新。載入中 &#8230;',
+'Profile redirect'			=>	'個人資料已更新。',
 'Instructions'				=>	'您將被重新導引回這個頁面。',
 'Update profile'			=>	'更新個人資料',
 
 // Administration stuff
-'User delete redirect'		=>	'會員已刪除。載入中 &#8230;',
+'User delete redirect'		=>	'會員已刪除。',
 'Section admin'				=>	'管理員設定',
 'Delete user'				=>	'刪除會員',
 'Delete warning'			=>	'<strong>警告!</strong> 當刪除會員時，該會員的文章將無法再回復。',
 'Delete posts info'			=>	'<strong>警告!</strong> 如果您選擇不要刪除這名會員所貼過的文章，則那些文章在以後只能以手動的方式刪除。',
 'Delete posts'				=>	'刪除文章:',
 'Delete posts label'		=>	'刪除 %s 所發表過的主題與文章。',
-'Group membership redirect'	=>	'會員群組已儲存。載入中 &#8230;',
-'Moderate forums redirect'	=>	'版面管理員權限已更新。載入中 &#8230;',
+'Group membership redirect'	=>	'會員群組已儲存。',
+'Moderate forums redirect'	=>	'版面管理員權限已更新。',
 'Ban redirect'				=>	'載入中 &#8230;',
 'Ban user'					=>	'會員停權',
 'Ban user info'				=>	'透過管理控制台對這名會員停權。',
@@ -32,7 +32,7 @@ $lang_profile = array(
 // Avatar stuff
 'Avatar welcome'			=>	'設置一個個人頭像來豐富您的論壇身份',
 'Avatar welcome user'		=>	'設置一個個人頭像來豐富 %s 的論壇身份',
-'Avatar deleted redirect'	=>	'個人頭像已刪除。載入中 &#8230;',
+'Avatar deleted redirect'	=>	'個人頭像已刪除。',
 'Avatars disabled'			=>	'論壇管理員已經取消個人頭像功能。',
 'No file'					=>	'您尚未選擇要上傳的檔案。',
 'Too large ini'				=>	'欲上傳的檔案過大，伺服器拒絕接收。',
@@ -68,15 +68,22 @@ $lang_profile = array(
 'View user topics'			=>	'檢視 %s 所發表的主題',
 'View your subscriptions'	=>	'檢視您所訂閱的主題',
 'View user subscriptions'	=>	'檢視 %s 所訂閱的主題',
+'View your forum subscriptions'	=>	'檢視您所訂閱的版面',
+'View user forum subscriptions'	=>	'檢視 %s 所訂閱的版面',
 'Realname'					=>	'真實姓名',
 'Location'					=>	'居住地',
 'From'						=>	'來自',
 'Registered'				=>	'註冊日期',
 'Website'					=>	'個人網站',
+'Facebook'					=>	'Facebook',
+'Twitter'					=>	'Twitter',
+'LinkedIn'					=>	'LinkedIn',
+'Skype'						=>	'Skype',
 'IP'						=>	'IP 位址',
 'Note'						=>	'管理員記錄',
 'Posts'						=>	'文章數',
 'Last post'					=>	'最後發表',
+'Last visit'				=> 	'上次來訪時間',
 'Send forum e-mail'			=>	'寄送論壇郵件',
 'Contact info'				=>	'聯絡資料',
 'Jabber'					=>	'Jabber',
@@ -100,6 +107,8 @@ $lang_profile = array(
 'Edit count'				=>	'編輯文章數',
 'Admin note'				=>	'管理員記錄',
 'Contact legend'			=>	'聯絡資料',
+'Contact messengers legend'	=>	'聯繫者詳細內容',
+'Name or Url'				=>	'輸入網址或帳號',
 
 // Settings section
 'Local settings'			=>	'本地化設定',
@@ -169,7 +178,7 @@ $lang_profile = array(
 'Change pass errors'		=>	'<strong>警告！</strong> 在您的密碼更新前，下列出現的錯誤必須做更正:',
 'Pass logout'				=>	'一名會員目前已登入。請登出然後再試一次。',
 'Pass key bad'				=>	'您用的密碼啟動金鑰有誤或是已經過期，請重新申請新密碼。如果還是無法更換，請透過 %s 與論壇管理員聯絡。',
-'Pass updated'				=>	'密碼已更新。使用您的新密碼登入。載入中 &#8230;',
+'Pass updated'				=>	'密碼已更新。使用您的新密碼登入。',
 'Change your password'		=>	'更改您的密碼',
 'Change user password'		=>	'更改 %s 的密碼',
 'Old password'				=>	'舊密碼',
@@ -177,7 +186,7 @@ $lang_profile = array(
 'New password'				=>	'新密碼',
 'Confirm new password'		=>	'確認新密碼:',
 'Wrong old password'		=>	'舊密碼不正確。',
-'Pass updated redirect'		=>	'密碼已更新。載入中 &#8230;',
+'Pass updated redirect'		=>	'密碼已更新。',
 
 // Change E-mail stuff
 'Change e-mail errors'		=>	'<strong>警告！</strong> 在您的電子郵件地址更新前，下列出現的錯誤必須做更正:',
@@ -202,7 +211,7 @@ $lang_profile = array(
 
 // Registration stuff (some of these also used by profile)
 'No new regs'				=>	'本論壇目前不接受新會員註冊。',
-'Reg cancel redirect'		=>	'註冊已取消。載入中 &#8230;',
+'Reg cancel redirect'		=>	'註冊已取消。',
 'Agreement'					=>	'論壇協定',
 'Agreement label'			=>	'我同意上述所提的論壇規則並且希望能註冊一個帳號。',
 'Agree'						=>	'同意',
@@ -232,8 +241,7 @@ $lang_profile = array(
 'Optional legend'			=>	'可選設定',
 'Language'					=>	'使用語系',
 'Timezone'					=>	'您當地的時區',
-'Adjust for DST'			=>	'調整日光節約時間',
-'DST label'					=>	'使日光節約時間生效 (前進時間 1 小時)。',
+'DST label'					=>	'日光節約時間(前進時間 1 小時)。',
 'E-mail settings'			=>	'電子郵件設定',
 'E-mail setting 1'			=>	'對其他會員公開您的電子郵件地址。',
 'E-mail setting 2'			=>	'隱藏電子郵件地址，但是允許其他會員用論壇的寄信功能寄信給您。',

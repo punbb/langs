@@ -5,7 +5,6 @@ $lang_admin_common = array(
 
 // Common items
 'Save changes'					=>	'儲存更新',
-'Redirect'						=>	'載入中 &#8230;',
 'Add'							=>	'新增',
 'Add new'						=>	'新增',
 'Delete'						=>	'刪除',
@@ -24,7 +23,7 @@ $lang_admin_common = array(
 'Delete help'					=>	'需經由另一個功能頁來做確認。',
 'Select all'					=>	'全選',
 'Required'						=>	'(必填)',
-'Required warn'					=>	'在表單送出前，所有標記著 %s 的欄位必須完成填寫。',
+'Required warn'					=>	'在表單送出前，所有以粗體標示的欄位必須完成填寫。',
 
 // Main Admin Menu Items and Title
 'Forum administration'			=>	'管理控制台',
@@ -46,7 +45,6 @@ $lang_admin_common = array(
 'Features'						=>	'功能選項',
 'Announcements'					=>	'論壇公告',
 'Registration'					=>	'會員註冊',
-'E-mail'						=>	'電子郵件',
 'Censoring'						=>	'文字過濾',
 
 // Users Submenu

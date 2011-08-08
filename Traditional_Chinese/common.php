@@ -36,7 +36,7 @@ $lang_common = array(
 'Forum message'				=>	'論壇訊息',
 'Maintenance warning'		=>	'<strong>警告！%s已啟用。</strong> 請勿做登出的動作，否則您將無法再登入。',
 'Maintenance mode'			=>	'論壇維護模式',
-'Redirecting'				=>	'載入中',
+'Redirecting'				=>	' 載入中...',
 'Forwarding info'			=>	'在 %s %s後您應該會自動地被導引到新的頁面。',
 'second'					=>	'秒',	// singular
 'seconds'					=>	'秒',	// plural
@@ -67,25 +67,24 @@ $lang_common = array(
 'Write message legend'		=>	'撰寫您的文章',
 'Required information'		=>	'必要資訊',
 'Reqmark'					=>	'*',
-'Required'					=>	'(必填)',
-'Required warn'				=>	'所有標示為 %s 的欄位在表單送出前必須完成填寫。',
-'Crumb separator'			=>	' &#187;&#160;', // The character or text that separates links in breadcrumbs
-'Title separator'			=>	' - ',
+'Required warn'				=>	'所有以粗體標示的欄位在表單送出前必須完成填寫。',
+'Crumb separator'			=>	' &rarr;&#160;', // The character or text that separates links in breadcrumbs
+'Title separator'			=>	' — ',
 'Page separator'			=>	'&#160;', //The character or text that separates page numbers
 'Spacer'					=>	'&#8230;', // Ellipsis for paginate
 'Paging separator'			=>	'&#160;', //The character or text that separates page numbers for page navigation generally
 'Previous'					=>	'上一頁',
 'Next'						=>	'下一頁',
-'Cancel redirect'			=>	'操作已取消。載入中 &#8230;',
-'No confirm redirect'		=>	'尚未確認。操作已取消。載入中 &#8230;',
+'Cancel redirect'			=>	'操作已取消。',
+'No confirm redirect'		=>	'尚未確認。操作已取消。',
 'Please confirm'			=>	'請確認:',
 'Help page'					=>	'使用說明: %s',
 'Re'						=>	'回覆:',
 'Page info'					=>	'頁碼 [ 第 %1$s 頁 共 %2$s 頁 ]',
-'Item info single'			=>	'%s [ %s ]',
+'Item info single'			=>	'%s: %s',
 'Item info plural'			=>	'%s [ 第 %s 至 %s 則 共 %s 則 ]', // e.g. Topics [ 10 to 20 of 30 ]
 'Info separator'			=>	' ', // e.g. 1 Page | 10 Topics
-'Powered by'				=>	'Powered by <strong>%s</strong>, Supported by <strong>%s</strong>.',
+'Powered by'				=>	'Powered by %s, supported by %s.',
 'Maintenance'				=>	'論壇維護',
 'Installed extension'       =>  '已安裝%s個官方延伸模組 Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.', 
 'Installed extensions'      =>  '已安裝<span id="extensions-used" title="%s">%s個官方延伸模組</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.', 
@@ -134,7 +133,7 @@ $lang_common = array(
 
 // Alerts
 'New alerts'				=>	'新警告',
-'Maintenance alert'			=>	'<strong>警告！</strong>目前論壇正處於維護模式，請勿做登出的動作。一但您在此模式中登出，將無法再登入。',
+'Maintenance alert'			=>	'<strong>論壇維護模式啟動中</strong> <em>請勿</em>登出, 以免無法重新登入',
 'Updates'					=>	'PunBB 更新:',
 'Updates failed'			=>	'最近一次連線到 punbb.informer.com 的更新服務嘗試檢查更新失敗。有可能是官方提供的更新服務負載過重或是發生故障。如果說這項警告訊息在這一兩天內都沒有消失，您應該取消自動檢查更新的功能，然後改用手動的方式來做程式更新。',
 'Updates version n hf'		=>	'PunBB 有新版本釋出，版本號為 %s，可以在 <a href="http://punbb.informer.com/">punbb.informer.com</a> 下載檔案。此外，在管理控制台的 "延伸模組" 功能頁有新的延伸模組修正檔可供安裝使用。',

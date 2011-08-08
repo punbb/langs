@@ -22,7 +22,7 @@ $lang_post = array(
 'Post errors'			=>	'<strong>警告！</strong> 在您張貼文章前，下列出現的錯誤必須做更正:',
 'Guest name'			=>	'訪客姓名',	// For guests (instead of Username)
 'Guest e-mail'			=>	'電子郵件',
-'Post redirect'			=>	'文章已張貼。載入中 &#8230;',
+'Post redirect'			=>	'文章已張貼。',
 'Post reply'			=>	'發表回覆',
 'Post new topic'		=>	'發表新主題',
 'Topic subject'			=>	'標題',
@@ -52,9 +52,9 @@ $lang_post = array(
 'Edit post legend'		=>	'編輯文章',
 'Edit topic'			=>	'編輯主題',
 'Edit reply'			=>	'編輯回覆',
-'Silent edit'			=>	'隱藏最後編輯 (不要在文章中顯示 "最後由誰編輯 &#8230;")。',
+'Silent edit'			=>	'隱藏最後編輯。',
 'Preview edited topic'	=>	'預覽您編輯過的主題',
 'Preview edited reply'	=>	'預覽您編輯過的回覆',
-'Edit redirect'			=>	'文章已更新。載入中 &#8230;'
+'Edit redirect'			=>	'文章已更新。'
 
 );

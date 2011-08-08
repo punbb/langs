@@ -8,6 +8,10 @@ $lang_admin_index = array(
 'Check for updates manual'		=>	'檢查更新',	// Link text
 'Copyright message'				=>	'&copy; 2008-2011 <a href="http://punbb.informer.com/">PunBB</a>, partially based on code &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
 'PunBB version'					=>	'PunBB 版本',
+'PunBB community'				=>	'社群',
+'Forums'						=>	'討論區',
+'Twitter'						=>	'Twitter',
+'Development'					=>	'開發',
 'Not available'					=>	'尚未支援',
 'Not applicable'				=>	'N/A',
 'Server load'					=>	'伺服主機負載',

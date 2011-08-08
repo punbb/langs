@@ -84,8 +84,8 @@ $lang_admin_users = array(
 'Move users to label'			=>	'移動會員到群組',
 
 // admin_users tables
-'Username column'				=>	'會員名稱 - 電子郵件 - 管理員記錄',
-'Title column'					=>	'頭銜 - 狀態',
+'Username column'				=>	'會員名稱 — 電子郵件 — 管理員記錄',
+'Title column'					=>	'頭銜 — 狀態',
 'Posts'							=>	'文章數',
 'Actions'						=>	'可執行動作',
 'View IP stats'					=>	'檢視 IP 狀態',

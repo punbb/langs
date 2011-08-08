@@ -16,7 +16,7 @@ $lang_delete = array(
 'Topic title'			=>	'主題: %s',
 'Reply title'			=>	'回覆: %s',
 'Please confirm'		=>	'請確認:',
-'Post del redirect'		=>	'文章已刪除。載入中 &#8230;',
-'Topic del redirect'	=>	'主題已刪除。載入中 &#8230;'
+'Post del redirect'		=>	'文章已刪除。',
+'Topic del redirect'	=>	'主題已刪除。'
 
 );

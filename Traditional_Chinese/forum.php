@@ -44,6 +44,9 @@ $lang_forum = array(
 'Moderate forum'			=>	'管理版面',
 'Mark forum read'			=>	'標記版面成已讀',
 'RSS forum feed'			=>	'訂閱本討論版 RSS Feed',
-'New posts info'			=>	'前往上次最後瀏覽之後的最新文章。'
+'New posts info'			=>	'前往上次最後瀏覽之後的最新文章。',
+'Unsubscribe'				=>	'取消訂閱',
+'Subscribe'					=>	'訂閱',
+'Subscribe info'			=>	'當有新文章時，會以電子郵件通知',
 
 );
