@@ -33,7 +33,7 @@ $lang_common = array(
 'Never'						=> 'Нет',
 'Today'						=> 'Сегодня',
 'Yesterday'					=> 'Вчера',
-'Forum message'				=> 'Сообщение в разделе',
+'Forum message'				=> 'Сообщение',
 'Maintenance warning'		=> '<strong>ВНИМАНИЕ! Включён %s.</strong> НЕ ВЫХОДИТЕ ИЗ-ПОД УЧЁТНОЙ ЗАПИСИ — вы не сможете войти обратно.',
 'Maintenance mode'			=> 'режим профилактики',
 'Redirecting'				=> ' Перенаправление',
@@ -84,7 +84,7 @@ $lang_common = array(
 'Item info single'			=> '%s %s',
 'Item info plural'			=> '%s с %s по %s из %s', // e.g. Topics [ 10 to 20 of 30 ]
 'Info separator'			=> ' ', // e.g. 1 Page | 10 Topics
-'Powered by'                => 'На основе %s, при поддержке %s.',
+'Powered by'                => 'Форум работает на&nbsp;%s<span class="hidden">, при&nbsp;поддержке %s</span>.',
 'Maintenance'				=> 'Профилактика',
 'Installed extension'     	=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
 'Installed extensions'		=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
