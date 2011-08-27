@@ -60,7 +60,7 @@ $lang_admin_common = array(
 'Rebuild index'					=> 'Пересоздание поискового индекса',
 
 // Extensions Submenu
-'Manage extensions'				=> 'Управление расширениями',
-'Manage hotfixes'				=> 'Управление исправлениями',
+'Manage extensions'				=> 'Расширения',
+'Manage hotfixes'				=> 'Исправления',
 
 );
