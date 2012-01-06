@@ -14,7 +14,7 @@ $lang_admin_users = array(
 'Signature label'				=>	'Подпись',
 'Admin note label'				=>	'Примечание',
 'Searches contact legend'		=>	'Детали контакта',
-'E-mail address label'			=>	'Адрес эл. почты',
+'E-mail address label'			=>	'Адрес электронной почты',
 'Website label'					=>	'Сайт',
 'Searches activity legend'		=>	'Активность пользователя',
 'More posts label'				=>	'Сообщений больше чем',
@@ -41,7 +41,7 @@ $lang_admin_users = array(
 'User information'				=>	'Информация о пользователе',
 'IP address'					=>	'IP-адрес',
 'Username'						=>	'Имя',
-'E-mail'						=>	'Эл. почта',
+'E-mail'						=>	'Электронная почта',
 'Admin note'					=>	'Примечание администратора',
 
 'Invalid IP address'			=>	'Неверный формат IP-адреса.',
@@ -84,7 +84,7 @@ $lang_admin_users = array(
 'Move users to label'			=>	'Переместить пользователей в группу',
 
 // admin_users tables
-'Username column'				=>	'Имя — Эл.&nbsp;почта — Примечание администратора',
+'Username column'				=>	'Имя — Электроннаяnbsp;почта — Примечание администратора',
 'Title column'					=>	'Статус',
 'Posts'							=>	'Сообщений',
 'Actions'						=>	'Действия',
