@@ -86,8 +86,8 @@ $lang_common = array(
 'Info separator'			=> ' ', // e.g. 1 Page | 10 Topics
 'Powered by'                => 'Форум работает на&nbsp;%s<span class="hidden">, при&nbsp;поддержке %s</span>',
 'Maintenance'				=> 'Профилактика',
-'Installed extension'     	=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
-'Installed extensions'		=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
+'Installed extension'     	=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.',
+'Installed extensions'		=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.',
 
 // CSRF confirmation form
 'Confirm'					=> 'Подтвердить',	// Button
@@ -155,10 +155,17 @@ $lang_common = array(
 'Skip to content'			=> 'Перейти к содержимому раздела',
 
 // Debug information
-'Querytime'					=> 'Сгенерировано за %1$s секунд(ы), выполнено %2$s запросов',
+'Querytime'					=> 'Сгенерировано за %1$s секунды (%2$s%% PHP — %3$s%% БД) %4$s запросов к базе данных',
 'Debug table'				=> 'Отладочная информация',
 'Debug summary'				=> 'Производительность базы данных',
 'Query times'				=> 'Время (с)',
 'Query'						=> 'Запрос',
 'Total query time'			=> 'Общее время запроса',
+
+// Error message
+'Forum error header'        => 'Извините! Произошла ошибка.',
+'Forum error description'   => 'Это временная ошибка. Просто обновите страницу. Если проблема не решается, попробуйте повторить через 5-10 минут.',
+'Forum error location'      => 'Ошибка произошла в строке %1$s в %2$s',
+'Forum error db reported'   => 'База данных:',
+'Forum error db query'      => 'Запрос с ошибкой:',
 );

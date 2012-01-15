@@ -18,5 +18,6 @@ $lang_admin_reports = array(
 'Read reports heading'			=> 'Последние 10 обработанных обращений',
 'No reports'					=> 'Нет обращений для отображения.',
 'Marked read by'				=> 'Обработано %s %s',
+'Post'                          => 'Сообщение №%s',
 
 );
