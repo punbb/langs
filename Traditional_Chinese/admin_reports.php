@@ -18,5 +18,6 @@ $lang_admin_reports = array(
 'Read reports heading'			=>	'最近 10 則處理過的檢舉報告',
 'No reports'					=>	'目前沒有已讀或未讀的檢舉報告。',
 'Marked read by'				=>	'已經在 %s 由 %s 處理完畢',
+'Post'							=>  '文章 #%s',
 
 );

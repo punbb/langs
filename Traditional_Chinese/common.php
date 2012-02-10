@@ -86,8 +86,8 @@ $lang_common = array(
 'Info separator'			=>	' ', // e.g. 1 Page | 10 Topics
 'Powered by'				=>	'Powered by %s, supported by %s.',
 'Maintenance'				=>	'論壇維護',
-'Installed extension'       =>  '已安裝%s個官方延伸模組 Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.', 
-'Installed extensions'      =>  '已安裝<span id="extensions-used" title="%s">%s個官方延伸模組</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.', 
+'Installed extension'       =>  '已安裝%s個官方延伸模組 Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.', 
+'Installed extensions'      =>  '已安裝<span id="extensions-used" title="%s">%s個官方延伸模組</span>. Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.', 
 
 // CSRF confirmation form
 'Confirm'					=>	'確認',	// Button
@@ -157,12 +157,19 @@ $lang_common = array(
 'Skip to content'			=>	'跳至論壇內容',
 
 // Debug information
-'Querytime'					=>	'頁面生成時間 %1$s 秒, 共執行查詢 %2$s 條',
+'Querytime'					=>	'頁面生成時間 %1$s 秒 (%2$s%% PHP - %3$s%% 資料庫) with %4$s 次查詢',
 'Debug table'				=>	'除錯資訊',
 'Debug summary'				=>	'資料庫查詢性能資訊',
 'Query times'				=>	'次數',
 'Query'						=>	'查詢',
 'Total query time'			=>	'總查詢時間',
+
+// Error message
+'Forum error header'		=> '抱歉! 無法載入這個頁面.',
+'Forum error description'	=> '這可能是暫時性的錯誤 請嘗試重新載入這個頁面 如果問題仍然存在 請5-10分鐘後重試',
+'Forum error location'		=> '這個錯誤發生於 %1$s 行 %2$s',
+'Forum error db reported'	=> '資料庫報告:',
+'Forum error db query'		=> '無法查詢:',
 
 // For official extensions
 'Official extensions inst'	=>	'<span id="extensions-used" title="%1$s">官方延伸模組: %2$s 已安裝。</span>',

@@ -6,7 +6,7 @@ $lang_admin_index = array(
 'Alerts'						=>	'論壇管理員警告',
 'Check for updates enabled'		=>	'本論壇已設置藉由 punbb.informer.com 的更新服務來自動檢查版本更新與修正。',
 'Check for updates manual'		=>	'檢查更新',	// Link text
-'Copyright message'				=>	'&copy; 2008-2011 <a href="http://punbb.informer.com/">PunBB</a>, partially based on code &copy; 2008-2009 <a href="http://fluxbb.org/">FluxBB</a>',
+'Copyright message'				=>	'&copy; 2008-2011 <a href="http://punbb.informer.com/">PunBB</a>',
 'PunBB version'					=>	'PunBB 版本',
 'PunBB community'				=>	'社群',
 'Forums'						=>	'討論區',
