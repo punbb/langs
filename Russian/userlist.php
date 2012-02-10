@@ -26,7 +26,6 @@ $lang_ul = array(
 'Submit user search'		=> 'Найти',
 'Title'						=> 'Статус',
 'Posts'						=> 'Сообщений',
-'User list options'			=> 'Настройки списка пользователей',
 
 
 );
