@@ -42,6 +42,7 @@ $lang_index = array(
 'New posts title'			=> 'На форуме появились новые сообщения с момента вашего последнего визита.',
 'Board options'				=> 'Настройки форума',
 'RSS active feed'			=> 'РСС',
-'Mark all as read'			=> 'Пометить все форумы как прочитанные'
+'Guests online'             =>  'Guests online',
+'Users online'              =>  'Users online'
 
 );
