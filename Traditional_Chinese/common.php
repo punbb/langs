@@ -147,8 +147,6 @@ $lang_common = array(
 'Jump to'					=>	'前往版面:',
 
 // For extern.php RSS feed
-'ATOM Feed'					=>	'Atom',
-'RSS Feed'					=>	'RSS',
 'RSS description'			=>	'%s 裡最新發表的主題',
 'RSS description topic'		=>	'%s 裡最新回覆的文章',
 'RSS reply'					=>	'回覆: ',	// The topic subject will be appended to this string (to signify a reply)
@@ -170,8 +168,5 @@ $lang_common = array(
 'Forum error location'		=> '這個錯誤發生於 %1$s 行 %2$s',
 'Forum error db reported'	=> '資料庫報告:',
 'Forum error db query'		=> '無法查詢:',
-
-// For official extensions
-'Official extensions inst'	=>	'<span id="extensions-used" title="%1$s">官方延伸模組: %2$s 已安裝。</span>',
 
 );
