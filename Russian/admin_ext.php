@@ -70,5 +70,6 @@ $lang_admin_ext = array(
 'Disable dependency'			=> 'Это расширение нельзя отключить, пока «%s» включено.',
 'Disabled dependency'			=> 'Это расширение нельзя включить, пока «%s» выключено.',
 'Download latest version'		=> 'Загрузить последнюю версию',
-
+'Version dependency error'		=> 'Расширение «%s» должно быть версии %s или выше',
+'Install ext errors'			=> '<strong>Предупреждение!</strong> Перед установкой расширения должны быть исправлены следующие ошибки:',
 );
