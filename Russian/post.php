@@ -5,7 +5,7 @@ $lang_post = array(
 
 // Post validation stuff (many are similar to those in edit.php)
 'No subject'			 => 'Тема должна содержать заголовок.',
-'Too long subject'  	 => 'Заголовок не может быть длиннее 70 символов.',
+'Too long subject'  	 => 'Заголовок не может быть длиннее %s символов.',
 'All caps subject'  	 => 'Заголовок не может содержать только заглавные буквы.',
 'No message'			 => 'Вы должны ввести текст сообщения.',
 'Too long message'  	 => 'Длина вашего сообщения %s байт. Это превышает лимит форума в %s байт.',
@@ -16,8 +16,8 @@ $lang_post = array(
 // Posting
 'Compose your reply'	 => 'Напишите и отправьте новый ответ',
 'Compose your topic'	 => 'Создайте новую тему',
-'Compose edited reply'   => 'Отредактируйте и отправьте ваш ответ',
-'Compose edited topic'   => 'Отредактируйте и отправьте вашу тему',
+'Compose edited reply'   => 'Отредактируйте и отправьте ответ',
+'Compose edited topic'   => 'Отредактируйте и отправьте тему',
 'Guest post legend' 	 => 'Важная информация для гостей',
 'Post errors'   		 => '<strong>Внимание!</strong> Исправьте следующие ошибки, чтобы добавить сообщение:',
 'Guest name'			 => 'Имя',
@@ -46,12 +46,12 @@ $lang_post = array(
 'Post posted'   		 => '<span>Написано </span>%s',
 
 // Edit post
-'Edit post legend'  	 => 'Отредактируйте сообщение и нажмите отправить',
+'Edit post legend'  	 => 'Отредактируйте сообщение и нажмите «Отправить»',
 'Edit topic'			 => 'Редактирование темы',
 'Edit reply'			 => 'Редактирование ответа',
 'Silent edit'   		 => 'Не отображать сообщение о редактировании',
 'Preview edited topic'   => 'Предпросмотр отредактированной темы',
 'Preview edited reply'   => 'Предпросмотр отредактированного ответа',
-'Edit redirect' 		 => 'Сообщение отредактировано.',
+'Edit redirect' 		 => 'Сообщение изменено.'
 
 );
