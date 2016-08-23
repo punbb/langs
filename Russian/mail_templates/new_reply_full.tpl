@@ -16,3 +16,4 @@ Subject: Ответ в теме: <topic_subject>
 
 --
 <board_mailer>
+(Не отвечайте на это сообщение)

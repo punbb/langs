@@ -21,6 +21,7 @@ $lang_admin_ext = array(
 'Extension error'				=>	'錯誤:',
 'Extension loading error'		=>	'載入延伸模組 "%s" 失敗。',
 'Illegal ID'					=>	'ID 必須是小寫的英數字 (a-z and 0-9) 和底線 (_)。',
+'Maxtestedon error'				=>	'這個延伸模組與您目前使用的 PunBB 版本不相容',
 'Maxtestedon warning'			=>	'這個延伸模組在您目前使用的 PunBB 版本上尚未經過明確的測試，因此可能會對您目前的安裝產生相容性問題。',
 'Missing manifest'				=>	'缺少 manifest.xml 檔。',
 'Failed parse manifest'			=>	'無法解析 manifest.xml 檔。',

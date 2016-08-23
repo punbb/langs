@@ -15,7 +15,7 @@ $lang_common = array(
 'Bad request'				=> 'Неверный запрос. Ссылка, по которой вы пришли, неверна или устарела.',
 'No view'					=> 'У вас нет права просмотра данных разделов.',
 'No permission'				=> 'У вас нет права доступа к данной странице.',
-'CSRF token mismatch'		=> 'Невозможно подтвердить маркер доступа. Возможно, прошло некоторое время после первого входа на страницу и последующей отправкой формы или щелчком по ссылке. Если это так и вы хотите выполнить своё действие до конца, нажмите кнопку «Подтвердить». Для возврата на исходную страницу нужно нажать кнопку «Отменить».',
+'CSRF token mismatch'		=> 'Невозможно подтвердить маркер доступа. Возможно, прошло некоторое время после первого входа на страницу и последующей отправкой формы или щелчком по ссылке. Если это так, и вы хотите выполнить своё действие до конца, нажмите кнопку «Подтвердить». Для возврата на исходную страницу нужно нажать кнопку «Отменить».',
 'No cookie'					=> 'Вы успешно вошли под своей учётной записью, но cookie не установлен. Пожалуйста, проверьте свои настройки, и, если возможно, разрешите использование cookie для данного сайта.',
 
 
@@ -33,7 +33,7 @@ $lang_common = array(
 'Never'						=> 'Нет',
 'Today'						=> 'Сегодня',
 'Yesterday'					=> 'Вчера',
-'Forum message'				=> 'Сообщение в разделе',
+'Forum message'				=> 'Сообщение',
 'Maintenance warning'		=> '<strong>ВНИМАНИЕ! Включён %s.</strong> НЕ ВЫХОДИТЕ ИЗ-ПОД УЧЁТНОЙ ЗАПИСИ — вы не сможете войти обратно.',
 'Maintenance mode'			=> 'режим профилактики',
 'Redirecting'				=> ' Перенаправление',
@@ -84,10 +84,10 @@ $lang_common = array(
 'Item info single'			=> '%s %s',
 'Item info plural'			=> '%s с %s по %s из %s', // e.g. Topics [ 10 to 20 of 30 ]
 'Info separator'			=> ' ', // e.g. 1 Page | 10 Topics
-'Powered by'                => 'На основе %s, при поддержке %s.',
+'Powered by'                => 'Форум работает на&nbsp;%s<span class="hidden">, при&nbsp;поддержке %s</span>',
 'Maintenance'				=> 'Профилактика',
-'Installed extension'     	=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
-'Installed extensions'		=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2011 <a href="http://punbb.informer.com/">PunBB</a>.',
+'Installed extension'     	=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.',
+'Installed extensions'		=> 'Установленно <span id="extensions-used" title="%s">%s официальных расширений</span>. Copyright &copy; 2003&ndash;2012 <a href="http://punbb.informer.com/">PunBB</a>.',
 
 // CSRF confirmation form
 'Confirm'					=> 'Подтвердить',	// Button
@@ -129,7 +129,7 @@ $lang_common = array(
 'Last visit'				=> 'Последнее посещение: %s',
 'Mark all as read'			=> 'Отметить все темы прочитанными',
 'Login nag'					=> 'Пожалуйста, войдите или зарегистрируйтесь.',
-'New reports'				=> 'Жалобы',
+'New reports'				=> 'Новые жалобы',
 
 // Alerts
 'New alerts'				=> 'Уведомления',
@@ -155,10 +155,21 @@ $lang_common = array(
 'Skip to content'			=> 'Перейти к содержимому раздела',
 
 // Debug information
-'Querytime'					=> 'Сгенерировано за %1$s секунд(ы), выполнено %2$s запросов',
+'Querytime'					=> 'Сгенерировано за %1$s секунды (%2$s%% PHP — %3$s%% БД) %4$s запросов к базе данных',
 'Debug table'				=> 'Отладочная информация',
 'Debug summary'				=> 'Производительность базы данных',
 'Query times'				=> 'Время (с)',
 'Query'						=> 'Запрос',
 'Total query time'			=> 'Общее время запроса',
+
+// Error message
+'Forum error header'        => 'Извините! Произошла ошибка.',
+'Forum error description'   => 'Это временная ошибка. Просто обновите страницу. Если проблема не решается, попробуйте повторить через 5-10 минут.',
+'Forum error location'      => 'Ошибка произошла в строке %1$s в %2$s',
+'Forum error db reported'   => 'База данных:',
+'Forum error db query'		=> 'Ошибочный запрос:',
+
+// Menu
+'Menu admin'				=> 'Admin Menu', // TODO
+'Menu profile'				=> 'Profile Menu', // TODO
 );

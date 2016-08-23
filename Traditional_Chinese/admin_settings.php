@@ -122,7 +122,7 @@ $lang_admin_settings = array(
 'Avatar Max height label'		=>	'頭像最大高度',
 'Avatar Max height help'		=>	'像素 (建議使用 60 像素)。',
 'Avatar Max size label'			=>	'頭像最大容量',
-'Avatar Max size help'			=>	'Bytes (建議使用 10240 bytes)。',
+'Avatar Max size help'			=>	'Bytes (建議使用 15,360 bytes)。',
 'Features update'				=>	'自動檢查更新',
 'Features update info'			=>	'PunBB 可以定期檢查是否有任何重要的更新可供您使用。這個更新可能是新的版本釋出或是修正程式。當有更新的程式可以使用時，將會在論壇上方顯示訊息通知論壇管理員。',
 'Features update disabled info'	=>	'自動檢查更新的功能已經關閉。為了要支援這項功能，PunBB 所使用的 PHP 環境必須支援 <a href="http://www.php.net/manual/en/ref.curl.php">cURL 延伸模組</a>，<a href="http://www.php.net/manual/en/function.fsockopen.php">fsockopen() 函式</a> 或者必須配置啟用 <a href="http://www.php.net/manual/en/ref.filesystem.php#ini.allow-url-fopen">allow_url_fopen</a> 功能。',
@@ -210,7 +210,7 @@ $lang_admin_settings = array(
 'Maintenance mode'				=>	'論壇維護',
 'Maintenance mode label'		=>	'使論壇進入維護模式。',
 'Maintenance message label'		=>	'論壇維護訊息',
-'Maintenance message help'		=>	'這段訊息將會在論壇模式啟用時顯示給來訪者觀看。您可以使用系統提供的預設訊息或是重寫新的訊息。在訊息裡可以使用 HTML 語法。',
+'Maintenance message help'		=>	'這段訊息將會在論壇模式啟用時顯示給來訪者觀看。您在訊息裡可以使用 HTML 語法。',
 'Maintenance message default'	=>	'本論壇目前進行維護中，暫時停止服務。請稍後再來拜訪。<br /><br />論壇管理員',
 
 );

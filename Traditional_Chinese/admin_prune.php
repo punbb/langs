@@ -16,7 +16,6 @@ $lang_admin_prune = array(
 'Number of topics'				=>	'主題數',
 'Prune caution'					=>	'<strong>重要！</strong> 請謹慎使用刪除舊主題功能。被刪除的舊主題將<em>無法</em>再復原回來。為了執行效率，您應該先把論壇設定在論壇維護模式，再來執行刪除舊主題功能。',
 'Prune intro'					=>	'您可以刪除所有版面中或是某個版面中的主題。主題將會依據您所指定的 "過期天數" 來做刪除。例如: 如果您輸入 30，則每則主題內最後回覆的文章日期只要超過 30 天，都將被刪除。',
-'Prune sticky'					=>	'刪除置頂主題',
 'Prune sticky enable'			=>	'允許刪除置頂主題',
 'Prune from'					=>	'從討論版面刪除',
 'Days to prune message'			=>	'刪除的天數必須是正整數。',

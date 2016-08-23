@@ -30,7 +30,7 @@ $lang_admin_common = array(
 'Start'							=> 'Начало',
 'Settings'						=> 'Настройки',
 'Users'							=> 'Пользователи',
-'Options'						=> 'Опции',
+'Options'						=> 'Параметры',
 'Management'					=> 'Управление',
 'Extensions'					=> 'Расширения',
 'Moderate'						=> 'Модерирование',
@@ -54,13 +54,13 @@ $lang_admin_common = array(
 'Bans'							=> 'Блокировки',
 
 // Management Submenu
-'Reports'						=> 'Отчёты',
+'Reports'						=> 'Обращения',
 'Prune topics'					=> 'Удаление тем',
 'Maintenance mode'				=> 'Режим профилактики',
 'Rebuild index'					=> 'Пересоздание поискового индекса',
 
 // Extensions Submenu
-'Manage extensions'				=> 'Управление расширениями',
-'Manage hotfixes'				=> 'Управление исправлениями',
+'Manage extensions'				=> 'Расширения',
+'Manage hotfixes'				=> 'Исправления',
 
 );
